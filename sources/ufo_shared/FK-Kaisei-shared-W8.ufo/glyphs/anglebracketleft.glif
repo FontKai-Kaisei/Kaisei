@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anglebracketleft" format="2">
+  <advance width="1000"/>
+  <unicode hex="2329"/>
+  <unicode hex="3008"/>
+  <note>
+cid00682
+</note>
+  <outline>
+    <contour>
+      <point x="635" y="380" type="line"/>
+      <point x="951" y="824" type="line"/>
+      <point x="900" y="852" type="line"/>
+      <point x="570" y="380" type="line"/>
+      <point x="898" y="-89" type="line"/>
+      <point x="948" y="-61" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:57</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-89</integer>
+            <integer>941</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>570</integer>
+            <integer>381</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

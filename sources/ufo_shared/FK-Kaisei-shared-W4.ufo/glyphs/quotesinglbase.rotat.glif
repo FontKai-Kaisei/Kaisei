@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesinglbase.rotat" format="2">
+  <advance width="1000"/>
+  <note>
+cid08839
+</note>
+  <outline>
+    <contour>
+      <point x="154" y="640" type="curve" smooth="yes"/>
+      <point x="201" y="640"/>
+      <point x="236" y="662"/>
+      <point x="236" y="707" type="curve" smooth="yes"/>
+      <point x="236" y="742"/>
+      <point x="213" y="769"/>
+      <point x="174" y="769" type="curve" smooth="yes"/>
+      <point x="151" y="769"/>
+      <point x="128" y="753"/>
+      <point x="128" y="734" type="curve" smooth="yes"/>
+      <point x="128" y="732"/>
+      <point x="128" y="731"/>
+      <point x="128" y="729" type="curve"/>
+      <point x="130" y="724" type="line" smooth="yes"/>
+      <point x="132" y="719"/>
+      <point x="133" y="715"/>
+      <point x="133" y="709" type="curve" smooth="yes"/>
+      <point x="133" y="692"/>
+      <point x="131" y="684"/>
+      <point x="113" y="684" type="curve" smooth="yes"/>
+      <point x="78" y="684"/>
+      <point x="14" y="712"/>
+      <point x="-14" y="734" type="curve"/>
+      <point x="-19" y="713" type="line"/>
+      <point x="23" y="677"/>
+      <point x="99" y="640"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:59</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>640</integer>
+            <integer>44</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>133</integer>
+            <integer>103</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

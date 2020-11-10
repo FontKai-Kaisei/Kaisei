@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.rotat" format="2">
+  <note>
+cid08854
+</note>
+  <outline>
+    <contour>
+      <point x="-270" y="777" type="line"/>
+      <point x="-150" y="617" type="line"/>
+      <point x="-137" y="688" type="line"/>
+      <point x="-262" y="820" type="line"/>
+    </contour>
+    <contour>
+      <point x="-270" y="610" type="line"/>
+      <point x="-150" y="450" type="line"/>
+      <point x="-137" y="521" type="line"/>
+      <point x="-262" y="653" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:59</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>450</integer>
+            <integer>370</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-270</integer>
+            <integer>133</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightArrow" format="2">
+  <advance width="1000"/>
+  <unicode hex="2192"/>
+  <note>
+cid00736
+</note>
+  <outline>
+    <contour>
+      <point x="573" y="145" type="line"/>
+      <point x="912" y="379" type="line"/>
+      <point x="572" y="611" type="line"/>
+      <point x="547" y="583" type="line"/>
+      <point x="792" y="403" type="line"/>
+      <point x="100" y="403" type="line"/>
+      <point x="100" y="353" type="line"/>
+      <point x="792" y="353" type="line"/>
+      <point x="547" y="174" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:57</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>353</integer>
+            <integer>50</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>100</integer>
+            <integer>812</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

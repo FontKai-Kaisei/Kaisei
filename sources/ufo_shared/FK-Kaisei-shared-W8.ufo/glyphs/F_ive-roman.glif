@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Five-roman" format="2">
+  <advance width="1000"/>
+  <unicode hex="2164"/>
+  <note>
+cid07579
+</note>
+  <outline>
+    <contour>
+      <point x="798" y="726" type="line"/>
+      <point x="863" y="726" type="line"/>
+      <point x="863" y="762" type="line"/>
+      <point x="636" y="762" type="line"/>
+      <point x="636" y="726" type="line"/>
+      <point x="720" y="726" type="line"/>
+      <point x="521" y="88" type="line"/>
+      <point x="334" y="726" type="line"/>
+      <point x="392" y="726" type="line"/>
+      <point x="392" y="762" type="line"/>
+      <point x="136" y="762" type="line"/>
+      <point x="136" y="726" type="line"/>
+      <point x="200" y="726" type="line"/>
+      <point x="433" y="-25" type="line"/>
+      <point x="547" y="-25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:58</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>726</integer>
+            <integer>36</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>636</integer>
+            <integer>227</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

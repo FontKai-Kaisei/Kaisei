@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="One-roman" format="2">
+  <advance width="1000"/>
+  <unicode hex="2160"/>
+  <note>
+cid07575
+</note>
+  <outline>
+    <contour>
+      <point x="554" y="725" type="line"/>
+      <point x="621" y="725" type="line"/>
+      <point x="621" y="758" type="line"/>
+      <point x="379" y="758" type="line"/>
+      <point x="379" y="725" type="line"/>
+      <point x="443" y="725" type="line"/>
+      <point x="443" y="8" type="line"/>
+      <point x="380" y="8" type="line"/>
+      <point x="380" y="-23" type="line"/>
+      <point x="617" y="-23" type="line"/>
+      <point x="617" y="8" type="line"/>
+      <point x="554" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:58</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-23</integer>
+            <integer>31</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>725</integer>
+            <integer>33</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>443</integer>
+            <integer>111</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

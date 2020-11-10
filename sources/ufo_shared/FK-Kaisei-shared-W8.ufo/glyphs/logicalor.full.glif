@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalor.full" format="2">
+  <advance width="1000"/>
+  <unicode hex="2228"/>
+  <note>
+cid00750
+</note>
+  <outline>
+    <contour>
+      <point x="505" y="-11" type="line"/>
+      <point x="929" y="687" type="line"/>
+      <point x="884" y="734" type="line"/>
+      <point x="502" y="81" type="line"/>
+      <point x="113" y="734" type="line"/>
+      <point x="68" y="689" type="line"/>
+      <point x="492" y="-11" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:57</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-11</integer>
+            <integer>745</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>68</integer>
+            <integer>861</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

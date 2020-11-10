@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright.rotat" format="2">
+  <advance width="1000"/>
+  <note>
+cid08729
+</note>
+  <outline>
+    <contour>
+      <point x="484" y="572" type="curve" smooth="yes"/>
+      <point x="795" y="572"/>
+      <point x="928" y="748"/>
+      <point x="979" y="828" type="curve"/>
+      <point x="952" y="841" type="line"/>
+      <point x="914" y="790"/>
+      <point x="786" y="655"/>
+      <point x="490" y="655" type="curve" smooth="yes"/>
+      <point x="200" y="655"/>
+      <point x="73" y="792"/>
+      <point x="39" y="840" type="curve"/>
+      <point x="11" y="828" type="line"/>
+      <point x="46" y="768"/>
+      <point x="167" y="572"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:59</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>572</integer>
+            <integer>83</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>11</integer>
+            <integer>968</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

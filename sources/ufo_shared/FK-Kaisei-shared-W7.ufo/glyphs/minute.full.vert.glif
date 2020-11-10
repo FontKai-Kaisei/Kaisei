@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute.full.vert" format="2">
+  <advance width="1000"/>
+  <note>
+cid08273
+</note>
+  <outline>
+    <contour>
+      <point x="914" y="151" type="curve" smooth="yes"/>
+      <point x="914" y="178"/>
+      <point x="883" y="195"/>
+      <point x="859" y="195" type="curve" smooth="yes"/>
+      <point x="844" y="195"/>
+      <point x="829" y="189"/>
+      <point x="819" y="177" type="curve" smooth="yes"/>
+      <point x="807" y="162"/>
+      <point x="714" y="-44"/>
+      <point x="714" y="-45" type="curve" smooth="yes"/>
+      <point x="714" y="-53"/>
+      <point x="722" y="-57"/>
+      <point x="730" y="-57" type="curve" smooth="yes"/>
+      <point x="736" y="-57"/>
+      <point x="743" y="-55"/>
+      <point x="748" y="-51" type="curve" smooth="yes"/>
+      <point x="766" y="-39"/>
+      <point x="888" y="97"/>
+      <point x="904" y="120" type="curve" smooth="yes"/>
+      <point x="910" y="129"/>
+      <point x="914" y="140"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:58</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-57</integer>
+            <integer>252</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>714</integer>
+            <integer>200</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxHeavyVerticalAndRight" format="2">
+  <advance width="1000"/>
+  <unicode hex="2523"/>
+  <note>
+cid07514
+</note>
+  <outline>
+    <contour>
+      <point x="561" y="317" type="line"/>
+      <point x="998" y="317" type="line"/>
+      <point x="998" y="441" type="line"/>
+      <point x="561" y="441" type="line"/>
+      <point x="561" y="879" type="line"/>
+      <point x="438" y="879" type="line"/>
+      <point x="438" y="-119" type="line"/>
+      <point x="561" y="-119" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:58</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>317</integer>
+            <integer>124</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>438</integer>
+            <integer>123</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign.half" format="2">
+  <advance width="500"/>
+  <note>
+cid00234
+</note>
+  <outline>
+    <contour>
+      <point x="350" y="260" type="line"/>
+      <point x="482" y="260" type="line"/>
+      <point x="482" y="309" type="line"/>
+      <point x="355" y="309" type="line"/>
+      <point x="373" y="515" type="line"/>
+      <point x="482" y="515" type="line"/>
+      <point x="482" y="567" type="line"/>
+      <point x="378" y="567" type="line"/>
+      <point x="394" y="779" type="line"/>
+      <point x="354" y="779" type="line"/>
+      <point x="336" y="567" type="line"/>
+      <point x="186" y="567" type="line"/>
+      <point x="204" y="779" type="line"/>
+      <point x="163" y="779" type="line"/>
+      <point x="145" y="567" type="line"/>
+      <point x="21" y="567" type="line"/>
+      <point x="21" y="515" type="line"/>
+      <point x="140" y="515" type="line"/>
+      <point x="123" y="309" type="line"/>
+      <point x="21" y="309" type="line"/>
+      <point x="21" y="260" type="line"/>
+      <point x="118" y="260" type="line"/>
+      <point x="95" y="-8" type="line"/>
+      <point x="136" y="-8" type="line"/>
+      <point x="159" y="260" type="line"/>
+      <point x="310" y="260" type="line"/>
+      <point x="287" y="-8" type="line"/>
+      <point x="328" y="-8" type="line"/>
+    </contour>
+    <contour>
+      <point x="181" y="515" type="line"/>
+      <point x="331" y="515" type="line"/>
+      <point x="315" y="309" type="line"/>
+      <point x="164" y="309" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:57</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>260</integer>
+            <integer>49</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>515</integer>
+            <integer>52</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>131.5</real>
+            <integer>41</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>323</integer>
+            <integer>159</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

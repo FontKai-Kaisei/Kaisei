@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus.rotat" format="2">
+  <advance width="1000"/>
+  <note>
+cid08731
+</note>
+  <outline>
+    <contour>
+      <point x="453" y="455" type="line"/>
+      <point x="453" y="203" type="line"/>
+      <point x="504" y="203" type="line"/>
+      <point x="504" y="455" type="line"/>
+      <point x="745" y="455" type="line"/>
+      <point x="745" y="520" type="line"/>
+      <point x="504" y="520" type="line"/>
+      <point x="504" y="777" type="line"/>
+      <point x="453" y="777" type="line"/>
+      <point x="453" y="520" type="line"/>
+      <point x="197" y="520" type="line"/>
+      <point x="197" y="455" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:59</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>455</integer>
+            <integer>65</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>453</integer>
+            <integer>51</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

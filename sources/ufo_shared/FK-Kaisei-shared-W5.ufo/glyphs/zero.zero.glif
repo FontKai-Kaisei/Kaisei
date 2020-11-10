@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.zero" format="2">
+  <advance width="582"/>
+  <note>
+cid00230
+</note>
+  <outline>
+    <contour>
+      <point x="484" y="620" type="curve"/>
+      <point x="552" y="723" type="line"/>
+      <point x="523" y="745" type="line"/>
+      <point x="460" y="652" type="line"/>
+      <point x="419" y="703"/>
+      <point x="368" y="725"/>
+      <point x="309" y="725" type="curve" smooth="yes"/>
+      <point x="120" y="725"/>
+      <point x="56" y="503"/>
+      <point x="56" y="344" type="curve" smooth="yes"/>
+      <point x="56" y="269"/>
+      <point x="68" y="188"/>
+      <point x="104" y="121" type="curve"/>
+      <point x="31" y="12" type="line"/>
+      <point x="61" y="-10" type="line"/>
+      <point x="127" y="86" type="line"/>
+      <point x="169" y="28"/>
+      <point x="225" y="0"/>
+      <point x="291" y="0" type="curve" smooth="yes"/>
+      <point x="475" y="0"/>
+      <point x="543" y="211"/>
+      <point x="543" y="369" type="curve" smooth="yes"/>
+      <point x="543" y="452"/>
+      <point x="525" y="547"/>
+    </contour>
+    <contour>
+      <point x="416" y="585" type="curve"/>
+      <point x="164" y="210" type="line"/>
+      <point x="157" y="261"/>
+      <point x="154" y="306"/>
+      <point x="154" y="349" type="curve" smooth="yes"/>
+      <point x="154" y="437"/>
+      <point x="169" y="697"/>
+      <point x="300" y="697" type="curve" smooth="yes"/>
+      <point x="366" y="697"/>
+      <point x="399" y="639"/>
+    </contour>
+    <contour>
+      <point x="440" y="356" type="curve" smooth="yes"/>
+      <point x="440" y="265"/>
+      <point x="426" y="27"/>
+      <point x="293" y="27" type="curve" smooth="yes"/>
+      <point x="221" y="27"/>
+      <point x="189" y="103"/>
+      <point x="175" y="159" type="curve"/>
+      <point x="428" y="536" type="line"/>
+      <point x="437" y="471"/>
+      <point x="440" y="413"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:57</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>0</integer>
+            <integer>27</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>697</integer>
+            <integer>28</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>56</integer>
+            <integer>98</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>440</integer>
+            <integer>103</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

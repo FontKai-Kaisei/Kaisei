@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="492"/>
+  <unicode hex="00B8"/>
+  <unicode hex="0327"/>
+  <note>
+cid00134
+</note>
+  <outline>
+    <contour>
+      <point x="354" y="-119" type="curve" smooth="yes"/>
+      <point x="354" y="-72"/>
+      <point x="296" y="-67"/>
+      <point x="261" y="-67" type="curve" smooth="yes"/>
+      <point x="242" y="-67"/>
+      <point x="227" y="-68"/>
+      <point x="202" y="-72" type="curve"/>
+      <point x="214" y="-52"/>
+      <point x="238" y="-11"/>
+      <point x="244" y="-2" type="curve"/>
+      <point x="213" y="3" type="line"/>
+      <point x="198" y="-30"/>
+      <point x="180" y="-69"/>
+      <point x="164" y="-102" type="curve"/>
+      <point x="187" y="-94"/>
+      <point x="213" y="-87"/>
+      <point x="239" y="-87" type="curve" smooth="yes"/>
+      <point x="258" y="-87"/>
+      <point x="299" y="-95"/>
+      <point x="299" y="-120" type="curve" smooth="yes"/>
+      <point x="299" y="-149"/>
+      <point x="238" y="-157"/>
+      <point x="217" y="-157" type="curve" smooth="yes"/>
+      <point x="191" y="-157"/>
+      <point x="165" y="-153"/>
+      <point x="140" y="-146" type="curve"/>
+      <point x="138" y="-145"/>
+      <point x="136" y="-144"/>
+      <point x="133" y="-143" type="curve" smooth="yes"/>
+      <point x="124" y="-140" type="line" smooth="yes"/>
+      <point x="119" y="-138"/>
+      <point x="114" y="-136"/>
+      <point x="112" y="-136" type="curve" smooth="yes"/>
+      <point x="110" y="-136"/>
+      <point x="106" y="-137"/>
+      <point x="106" y="-143" type="curve" smooth="yes"/>
+      <point x="106" y="-153"/>
+      <point x="133" y="-166"/>
+      <point x="141" y="-170" type="curve" smooth="yes"/>
+      <point x="163" y="-180"/>
+      <point x="195" y="-190"/>
+      <point x="219" y="-190" type="curve" smooth="yes"/>
+      <point x="268" y="-190"/>
+      <point x="354" y="-185"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:57</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-190</integer>
+            <integer>33</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-87</integer>
+            <integer>20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>299</integer>
+            <integer>55</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tortoiseshellbracketleft.half.rotat" format="2">
+  <advance width="1000"/>
+  <note>
+cid09265
+</note>
+  <outline>
+    <contour>
+      <point x="28" y="473" type="line"/>
+      <point x="69" y="452" type="line"/>
+      <point x="170" y="674" type="line"/>
+      <point x="822" y="674" type="line"/>
+      <point x="925" y="452" type="line"/>
+      <point x="966" y="473" type="line"/>
+      <point x="846" y="718" type="line"/>
+      <point x="146" y="718" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:59</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>674</integer>
+            <integer>44</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>28</integer>
+            <integer>938</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft.full.vert" format="2">
+  <advance width="1000"/>
+  <unicode hex="FE35"/>
+  <note>
+cid07899
+</note>
+  <outline>
+    <contour>
+      <point x="944" y="-42" type="curve"/>
+      <point x="978" y="-27" type="line"/>
+      <point x="878" y="152"/>
+      <point x="704" y="243"/>
+      <point x="500" y="243" type="curve" smooth="yes"/>
+      <point x="291" y="243"/>
+      <point x="131" y="154"/>
+      <point x="22" y="-26" type="curve"/>
+      <point x="56" y="-43" type="line"/>
+      <point x="157" y="96"/>
+      <point x="333" y="149"/>
+      <point x="498" y="149" type="curve" smooth="yes"/>
+      <point x="656" y="149"/>
+      <point x="850" y="95"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:58</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>149</integer>
+            <integer>94</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>22</integer>
+            <integer>956</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

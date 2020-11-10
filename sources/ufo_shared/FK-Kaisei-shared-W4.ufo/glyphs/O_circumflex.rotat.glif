@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocircumflex.rotat" format="2">
+  <advance width="1000"/>
+  <note>
+cid08902
+</note>
+  <outline>
+    <contour>
+      <point x="478" y="139" type="curve" smooth="yes"/>
+      <point x="692" y="139"/>
+      <point x="831" y="268"/>
+      <point x="831" y="479" type="curve" smooth="yes"/>
+      <point x="831" y="681"/>
+      <point x="671" y="820"/>
+      <point x="470" y="820" type="curve" smooth="yes"/>
+      <point x="256" y="820"/>
+      <point x="120" y="691"/>
+      <point x="120" y="479" type="curve" smooth="yes"/>
+      <point x="120" y="262"/>
+      <point x="261" y="139"/>
+    </contour>
+    <contour>
+      <point x="475" y="244" type="curve" smooth="yes"/>
+      <point x="325" y="244"/>
+      <point x="148" y="297"/>
+      <point x="148" y="479" type="curve" smooth="yes"/>
+      <point x="148" y="661"/>
+      <point x="320" y="715"/>
+      <point x="470" y="715" type="curve" smooth="yes"/>
+      <point x="612" y="715"/>
+      <point x="804" y="653"/>
+      <point x="804" y="479" type="curve" smooth="yes"/>
+      <point x="804" y="300"/>
+      <point x="621" y="244"/>
+    </contour>
+    <contour>
+      <point x="871" y="323" type="line"/>
+      <point x="905" y="316" type="line"/>
+      <point x="982" y="479" type="line"/>
+      <point x="907" y="643" type="line"/>
+      <point x="872" y="634" type="line"/>
+      <point x="922" y="481" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:59</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>139</integer>
+            <integer>105</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>715</integer>
+            <integer>105</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>120</integer>
+            <integer>28</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>804</integer>
+            <integer>27</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

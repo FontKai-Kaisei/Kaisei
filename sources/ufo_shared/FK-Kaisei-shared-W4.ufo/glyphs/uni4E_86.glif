@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni4E86" format="2">
+  <advance width="1000"/>
+  <unicode hex="4E86"/>
+  <note>
+cid03971
+</note>
+  <outline>
+    <contour>
+      <point x="853" y="718" type="curve" smooth="yes"/>
+      <point x="853" y="723"/>
+      <point x="848" y="726"/>
+      <point x="842" y="726" type="curve" smooth="yes"/>
+      <point x="132" y="726" type="line"/>
+      <point x="132" y="688" type="line"/>
+      <point x="716" y="688" type="line"/>
+      <point x="683" y="608"/>
+      <point x="620" y="552"/>
+      <point x="547" y="512" type="curve"/>
+      <point x="464" y="520" type="line"/>
+      <point x="466" y="389"/>
+      <point x="466" y="258"/>
+      <point x="466" y="128" type="curve" smooth="yes"/>
+      <point x="466" y="58"/>
+      <point x="451" y="10"/>
+      <point x="371" y="10" type="curve" smooth="yes"/>
+      <point x="333" y="10"/>
+      <point x="299" y="19"/>
+      <point x="264" y="33" type="curve"/>
+      <point x="263" y="34"/>
+      <point x="261" y="35"/>
+      <point x="260" y="35" type="curve" smooth="yes"/>
+      <point x="256" y="35"/>
+      <point x="254" y="33"/>
+      <point x="254" y="31" type="curve" smooth="yes"/>
+      <point x="254" y="29"/>
+      <point x="255" y="27"/>
+      <point x="257" y="26" type="curve"/>
+      <point x="293" y="-10"/>
+      <point x="362" y="-55"/>
+      <point x="415" y="-55" type="curve" smooth="yes"/>
+      <point x="524" y="-55"/>
+      <point x="549" y="13"/>
+      <point x="549" y="109" type="curve" smooth="yes"/>
+      <point x="549" y="235"/>
+      <point x="548" y="360"/>
+      <point x="550" y="486" type="curve"/>
+      <point x="666" y="506"/>
+      <point x="797" y="576"/>
+      <point x="844" y="689" type="curve" smooth="yes"/>
+      <point x="850" y="703" type="line"/>
+      <point x="851" y="708"/>
+      <point x="853" y="714"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:58</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-55</integer>
+            <integer>65</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>688</integer>
+            <integer>38</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>466</integer>
+            <integer>83</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

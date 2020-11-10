@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reflexsubset.full" format="2">
+  <advance width="1000"/>
+  <unicode hex="2286"/>
+  <note>
+cid00743
+</note>
+  <outline>
+    <contour>
+      <point x="382" y="177" type="curve" smooth="yes"/>
+      <point x="816" y="177" type="line"/>
+      <point x="816" y="232" type="line"/>
+      <point x="382" y="232" type="line" smooth="yes"/>
+      <point x="280" y="232"/>
+      <point x="169" y="301"/>
+      <point x="169" y="415" type="curve" smooth="yes"/>
+      <point x="169" y="529"/>
+      <point x="280" y="597"/>
+      <point x="382" y="597" type="curve" smooth="yes"/>
+      <point x="816" y="597" type="line"/>
+      <point x="816" y="652" type="line"/>
+      <point x="382" y="652" type="line" smooth="yes"/>
+      <point x="247" y="652"/>
+      <point x="113" y="557"/>
+      <point x="113" y="415" type="curve" smooth="yes"/>
+      <point x="113" y="272"/>
+      <point x="246" y="177"/>
+    </contour>
+    <contour>
+      <point x="142" y="-34" type="line"/>
+      <point x="836" y="-34" type="line"/>
+      <point x="836" y="18" type="line"/>
+      <point x="142" y="18" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:57</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-34</integer>
+            <integer>52</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>177</integer>
+            <integer>55</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>597</integer>
+            <integer>55</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>113</integer>
+            <integer>56</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

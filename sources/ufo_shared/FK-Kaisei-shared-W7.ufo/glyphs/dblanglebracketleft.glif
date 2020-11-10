@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblanglebracketleft" format="2">
+  <advance width="1000"/>
+  <unicode hex="300A"/>
+  <note>
+cid00684
+</note>
+  <outline>
+    <contour>
+      <point x="732" y="380" type="line"/>
+      <point x="937" y="803" type="line"/>
+      <point x="899" y="830" type="line"/>
+      <point x="672" y="380" type="line"/>
+      <point x="897" y="-66" type="line"/>
+      <point x="934" y="-40" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="380" type="line"/>
+      <point x="813" y="803" type="line"/>
+      <point x="773" y="829" type="line"/>
+      <point x="546" y="380" type="line"/>
+      <point x="774" y="-66" type="line"/>
+      <point x="810" y="-40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:57</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-66</integer>
+            <integer>896</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>546</integer>
+            <integer>391</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

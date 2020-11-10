@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period.half.rotat" format="2">
+  <advance width="1000"/>
+  <note>
+cid08964
+</note>
+  <outline>
+    <contour>
+      <point x="188" y="559" type="curve" smooth="yes"/>
+      <point x="228" y="559"/>
+      <point x="258" y="591"/>
+      <point x="258" y="630" type="curve" smooth="yes"/>
+      <point x="258" y="669"/>
+      <point x="228" y="701"/>
+      <point x="188" y="701" type="curve" smooth="yes"/>
+      <point x="148" y="701"/>
+      <point x="118" y="669"/>
+      <point x="118" y="630" type="curve" smooth="yes"/>
+      <point x="118" y="591"/>
+      <point x="148" y="559"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:59</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>559</integer>
+            <integer>142</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>118</integer>
+            <integer>140</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

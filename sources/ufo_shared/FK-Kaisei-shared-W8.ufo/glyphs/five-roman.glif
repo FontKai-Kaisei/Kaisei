@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five-roman" format="2">
+  <advance width="1000"/>
+  <unicode hex="2174"/>
+  <note>
+cid08096
+</note>
+  <outline>
+    <contour>
+      <point x="748" y="519" type="line"/>
+      <point x="809" y="519" type="line"/>
+      <point x="809" y="556" type="line"/>
+      <point x="596" y="556" type="line"/>
+      <point x="596" y="519" type="line"/>
+      <point x="666" y="519" type="line"/>
+      <point x="504" y="59" type="line"/>
+      <point x="371" y="519" type="line"/>
+      <point x="420" y="519" type="line"/>
+      <point x="420" y="556" type="line"/>
+      <point x="189" y="556" type="line"/>
+      <point x="189" y="519" type="line"/>
+      <point x="247" y="519" type="line"/>
+      <point x="420" y="-19" type="line"/>
+      <point x="542" y="-19" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:58</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-19</integer>
+            <integer>78</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>519</integer>
+            <integer>37</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>189</integer>
+            <integer>231</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>596</integer>
+            <integer>213</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

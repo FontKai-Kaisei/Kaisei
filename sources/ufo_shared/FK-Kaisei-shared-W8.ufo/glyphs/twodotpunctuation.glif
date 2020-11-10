@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotpunctuation" format="2">
+  <advance width="1000"/>
+  <unicode hex="205A"/>
+  <unicode hex="FE30"/>
+  <note>
+cid07898
+</note>
+  <outline>
+    <contour>
+      <point x="576" y="629" type="curve" smooth="yes"/>
+      <point x="576" y="669"/>
+      <point x="543" y="704"/>
+      <point x="500" y="704" type="curve" smooth="yes"/>
+      <point x="459" y="704"/>
+      <point x="424" y="670"/>
+      <point x="424" y="629" type="curve" smooth="yes"/>
+      <point x="424" y="587"/>
+      <point x="459" y="554"/>
+      <point x="500" y="554" type="curve" smooth="yes"/>
+      <point x="542" y="554"/>
+      <point x="576" y="587"/>
+    </contour>
+    <contour>
+      <point x="576" y="135" type="curve" smooth="yes"/>
+      <point x="576" y="176"/>
+      <point x="543" y="210"/>
+      <point x="500" y="210" type="curve" smooth="yes"/>
+      <point x="459" y="210"/>
+      <point x="424" y="176"/>
+      <point x="424" y="135" type="curve" smooth="yes"/>
+      <point x="424" y="93"/>
+      <point x="459" y="60"/>
+      <point x="500" y="60" type="curve" smooth="yes"/>
+      <point x="542" y="60"/>
+      <point x="576" y="93"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:58</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>60</integer>
+            <integer>150</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>554</integer>
+            <integer>150</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>424</integer>
+            <integer>152</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

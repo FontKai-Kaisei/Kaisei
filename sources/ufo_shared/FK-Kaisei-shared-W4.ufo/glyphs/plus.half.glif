@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus.half" format="2">
+  <advance width="500"/>
+  <note>
+cid00242
+</note>
+  <outline>
+    <contour>
+      <point x="269" y="364" type="line"/>
+      <point x="470" y="364" type="line"/>
+      <point x="470" y="401" type="line"/>
+      <point x="269" y="401" type="line"/>
+      <point x="269" y="598" type="line"/>
+      <point x="230" y="598" type="line"/>
+      <point x="230" y="401" type="line"/>
+      <point x="32" y="401" type="line"/>
+      <point x="32" y="364" type="line"/>
+      <point x="230" y="364" type="line"/>
+      <point x="230" y="166" type="line"/>
+      <point x="269" y="166" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:57</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>364</integer>
+            <integer>37</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>230</integer>
+            <integer>39</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign.rotat" format="2">
+  <advance width="1000"/>
+  <note>
+cid08723
+</note>
+  <outline>
+    <contour>
+      <point x="372" y="150" type="line"/>
+      <point x="429" y="150" type="line"/>
+      <point x="429" y="331" type="line"/>
+      <point x="629" y="306" type="line"/>
+      <point x="629" y="150" type="line"/>
+      <point x="687" y="150" type="line"/>
+      <point x="687" y="299" type="line"/>
+      <point x="900" y="275" type="line"/>
+      <point x="900" y="332" type="line"/>
+      <point x="687" y="358" type="line"/>
+      <point x="687" y="573" type="line"/>
+      <point x="900" y="547" type="line"/>
+      <point x="900" y="606" type="line"/>
+      <point x="687" y="632" type="line"/>
+      <point x="687" y="810" type="line"/>
+      <point x="629" y="810" type="line"/>
+      <point x="629" y="639" type="line"/>
+      <point x="429" y="663" type="line"/>
+      <point x="429" y="810" type="line"/>
+      <point x="372" y="810" type="line"/>
+      <point x="372" y="670" type="line"/>
+      <point x="110" y="704" type="line"/>
+      <point x="110" y="644" type="line"/>
+      <point x="372" y="612" type="line"/>
+      <point x="372" y="396" type="line"/>
+      <point x="110" y="429" type="line"/>
+      <point x="110" y="370" type="line"/>
+      <point x="372" y="338" type="line"/>
+    </contour>
+    <contour>
+      <point x="629" y="580" type="line"/>
+      <point x="629" y="365" type="line"/>
+      <point x="429" y="389" type="line"/>
+      <point x="429" y="605" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:59</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>150</integer>
+            <integer>660</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>372</integer>
+            <integer>57</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>629</integer>
+            <integer>58</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

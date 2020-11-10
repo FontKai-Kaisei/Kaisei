@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackCircle" format="2">
+  <advance width="1000"/>
+  <unicode hex="25CF"/>
+  <note>
+cid00724
+</note>
+  <outline>
+    <contour>
+      <point x="922" y="363" type="curve" smooth="yes"/>
+      <point x="922" y="480"/>
+      <point x="881" y="579"/>
+      <point x="799" y="662" type="curve" smooth="yes"/>
+      <point x="716" y="744"/>
+      <point x="617" y="785"/>
+      <point x="500" y="785" type="curve" smooth="yes"/>
+      <point x="383" y="785"/>
+      <point x="284" y="744"/>
+      <point x="202" y="662" type="curve" smooth="yes"/>
+      <point x="119" y="579"/>
+      <point x="78" y="480"/>
+      <point x="78" y="363" type="curve" smooth="yes"/>
+      <point x="78" y="246"/>
+      <point x="119" y="147"/>
+      <point x="202" y="65" type="curve" smooth="yes"/>
+      <point x="284" y="-17"/>
+      <point x="383" y="-58"/>
+      <point x="500" y="-58" type="curve" smooth="yes"/>
+      <point x="617" y="-58"/>
+      <point x="716" y="-17"/>
+      <point x="799" y="65" type="curve" smooth="yes"/>
+      <point x="881" y="147"/>
+      <point x="922" y="246"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:57</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-58</integer>
+            <integer>843</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>78</integer>
+            <integer>844</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

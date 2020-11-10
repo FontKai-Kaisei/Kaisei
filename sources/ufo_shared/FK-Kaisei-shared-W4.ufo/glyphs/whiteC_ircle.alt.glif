@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteCircle.alt" format="2">
+  <advance width="1000"/>
+  <note>
+cid08260
+</note>
+  <outline>
+    <contour>
+      <point x="968" y="373" type="curve" smooth="yes"/>
+      <point x="968" y="631"/>
+      <point x="758" y="841"/>
+      <point x="500" y="841" type="curve" smooth="yes"/>
+      <point x="242" y="841"/>
+      <point x="32" y="631"/>
+      <point x="32" y="373" type="curve" smooth="yes"/>
+      <point x="32" y="115"/>
+      <point x="242" y="-94"/>
+      <point x="500" y="-94" type="curve" smooth="yes"/>
+      <point x="758" y="-94"/>
+      <point x="968" y="115"/>
+    </contour>
+    <contour>
+      <point x="924" y="373" type="curve" smooth="yes"/>
+      <point x="924" y="138"/>
+      <point x="732" y="-53"/>
+      <point x="497" y="-53" type="curve" smooth="yes"/>
+      <point x="262" y="-53"/>
+      <point x="71" y="138"/>
+      <point x="71" y="373" type="curve" smooth="yes"/>
+      <point x="71" y="608"/>
+      <point x="262" y="799"/>
+      <point x="497" y="799" type="curve" smooth="yes"/>
+      <point x="732" y="799"/>
+      <point x="924" y="608"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:58</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-94</integer>
+            <integer>41</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>799</integer>
+            <integer>42</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>32</integer>
+            <integer>39</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>924</integer>
+            <integer>44</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

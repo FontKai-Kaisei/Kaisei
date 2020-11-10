@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetleft.rotat" format="2">
+  <advance width="1000"/>
+  <note>
+cid08828
+</note>
+  <outline>
+    <contour>
+      <point x="199" y="678" type="line"/>
+      <point x="199" y="604" type="line"/>
+      <point x="370" y="769" type="line"/>
+      <point x="539" y="604" type="line"/>
+      <point x="539" y="678" type="line"/>
+      <point x="370" y="833" type="line"/>
+    </contour>
+    <contour>
+      <point x="199" y="503" type="line"/>
+      <point x="199" y="427" type="line"/>
+      <point x="370" y="594" type="line"/>
+      <point x="539" y="427" type="line"/>
+      <point x="539" y="503" type="line"/>
+      <point x="370" y="657" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:59</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>427</integer>
+            <integer>406</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>199</integer>
+            <integer>340</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

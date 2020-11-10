@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum.half" format="2">
+  <advance width="500"/>
+  <note>
+cid00293
+</note>
+  <outline>
+    <contour>
+      <point x="363" y="469" type="line"/>
+      <point x="429" y="469" type="line"/>
+      <point x="295" y="747" type="line"/>
+      <point x="205" y="748" type="line"/>
+      <point x="71" y="469" type="line"/>
+      <point x="137" y="469" type="line"/>
+      <point x="250" y="681" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:57</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>681</integer>
+            <real>66.5</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>71</integer>
+            <integer>358</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

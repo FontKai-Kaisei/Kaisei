@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus.full" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF0B"/>
+  <note>
+cid00692
+</note>
+  <outline>
+    <contour>
+      <point x="532" y="353" type="line"/>
+      <point x="837" y="353" type="line"/>
+      <point x="837" y="405" type="line"/>
+      <point x="532" y="405" type="line"/>
+      <point x="532" y="707" type="line"/>
+      <point x="463" y="707" type="line"/>
+      <point x="463" y="405" type="line"/>
+      <point x="162" y="405" type="line"/>
+      <point x="162" y="353" type="line"/>
+      <point x="463" y="353" type="line"/>
+      <point x="463" y="36" type="line"/>
+      <point x="532" y="36" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:57</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>353</integer>
+            <integer>52</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>463</integer>
+            <integer>69</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

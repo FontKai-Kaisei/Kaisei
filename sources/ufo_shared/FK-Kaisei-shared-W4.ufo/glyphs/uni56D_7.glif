@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni56D7" format="2">
+  <advance width="1000"/>
+  <unicode hex="2F1E"/>
+  <unicode hex="56D7"/>
+  <note>
+cid04459
+</note>
+  <outline>
+    <contour>
+      <point x="887" y="152" type="curve" smooth="yes"/>
+      <point x="887" y="764" type="line"/>
+      <point x="113" y="764" type="line"/>
+      <point x="113" y="-46" type="line"/>
+      <point x="690" y="-46" type="line" smooth="yes"/>
+      <point x="819" y="-46"/>
+      <point x="887" y="16"/>
+    </contour>
+    <contour>
+      <point x="194" y="724" type="line"/>
+      <point x="801" y="724" type="line"/>
+      <point x="801" y="151" type="line" smooth="yes"/>
+      <point x="801" y="80"/>
+      <point x="766" y="-5"/>
+      <point x="675" y="-5" type="curve" smooth="yes"/>
+      <point x="194" y="-5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:58</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-46</integer>
+            <integer>41</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>724</integer>
+            <integer>40</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>113</integer>
+            <integer>81</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>801</integer>
+            <integer>86</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
+  <unicode hex="0308"/>
+  <note>
+cid00132
+</note>
+  <outline>
+    <contour>
+      <point x="-295" y="713" type="curve" smooth="yes"/>
+      <point x="-295" y="744"/>
+      <point x="-326" y="771"/>
+      <point x="-357" y="771" type="curve" smooth="yes"/>
+      <point x="-388" y="771"/>
+      <point x="-419" y="744"/>
+      <point x="-419" y="713" type="curve" smooth="yes"/>
+      <point x="-419" y="681"/>
+      <point x="-388" y="655"/>
+      <point x="-357" y="655" type="curve" smooth="yes"/>
+      <point x="-326" y="655"/>
+      <point x="-295" y="681"/>
+    </contour>
+    <contour>
+      <point x="-81" y="713" type="curve" smooth="yes"/>
+      <point x="-81" y="744"/>
+      <point x="-112" y="771"/>
+      <point x="-143" y="771" type="curve" smooth="yes"/>
+      <point x="-174" y="771"/>
+      <point x="-205" y="744"/>
+      <point x="-205" y="713" type="curve" smooth="yes"/>
+      <point x="-205" y="681"/>
+      <point x="-174" y="655"/>
+      <point x="-143" y="655" type="curve" smooth="yes"/>
+      <point x="-112" y="655"/>
+      <point x="-81" y="681"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:57</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>655</integer>
+            <integer>116</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-419</integer>
+            <integer>124</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-205</integer>
+            <integer>124</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

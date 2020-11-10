@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedbl.full" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF02"/>
+  <note>
+cid08007
+</note>
+  <outline>
+    <contour>
+      <point x="438" y="537" type="line"/>
+      <point x="463" y="781" type="line"/>
+      <point x="374" y="781" type="line"/>
+      <point x="396" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="584" y="537" type="line"/>
+      <point x="615" y="781" type="line"/>
+      <point x="526" y="781" type="line"/>
+      <point x="543" y="537" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:58</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>537</integer>
+            <integer>244</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>374</integer>
+            <integer>241</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

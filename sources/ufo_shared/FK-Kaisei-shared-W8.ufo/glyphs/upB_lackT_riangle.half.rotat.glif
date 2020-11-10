@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upBlackTriangle.half.rotat" format="2">
+  <advance width="1000"/>
+  <note>
+cid09353
+</note>
+  <outline>
+    <contour>
+      <point x="93" y="845" type="line"/>
+      <point x="93" y="415" type="line"/>
+      <point x="875" y="614" type="line"/>
+      <point x="875" y="646" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:59</string>
+    </dict>
+  </lib>
+</glyph>

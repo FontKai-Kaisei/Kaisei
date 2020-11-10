@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam.rotat" format="2">
+  <advance width="1000"/>
+  <note>
+cid08721
+</note>
+  <outline>
+    <contour>
+      <point x="809" y="596" type="curve" smooth="yes"/>
+      <point x="849" y="596"/>
+      <point x="878" y="645"/>
+      <point x="878" y="680" type="curve" smooth="yes"/>
+      <point x="878" y="717"/>
+      <point x="851" y="763"/>
+      <point x="809" y="763" type="curve" smooth="yes"/>
+      <point x="782" y="763"/>
+      <point x="755" y="757"/>
+      <point x="729" y="753" type="curve" smooth="yes"/>
+      <point x="585" y="731"/>
+      <point x="440" y="712"/>
+      <point x="295" y="701" type="curve"/>
+      <point x="295" y="660" type="line"/>
+      <point x="440" y="642"/>
+      <point x="584" y="624"/>
+      <point x="729" y="605" type="curve" smooth="yes"/>
+      <point x="755" y="602"/>
+      <point x="782" y="596"/>
+    </contour>
+    <contour>
+      <point x="159" y="599" type="curve" smooth="yes"/>
+      <point x="202" y="599"/>
+      <point x="236" y="638"/>
+      <point x="236" y="680" type="curve" smooth="yes"/>
+      <point x="236" y="723"/>
+      <point x="203" y="761"/>
+      <point x="159" y="761" type="curve" smooth="yes"/>
+      <point x="114" y="761"/>
+      <point x="81" y="723"/>
+      <point x="81" y="680" type="curve" smooth="yes"/>
+      <point x="81" y="637"/>
+      <point x="115" y="599"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:59</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>596</integer>
+            <integer>167</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>81</integer>
+            <integer>155</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>599</integer>
+            <integer>162</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

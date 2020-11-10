@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arc" format="2">
+  <advance width="1000"/>
+  <unicode hex="2312"/>
+  <note>
+cid00758
+</note>
+  <outline>
+    <contour>
+      <point x="943" y="608" type="curve"/>
+      <point x="969" y="639" type="line"/>
+      <point x="846" y="784"/>
+      <point x="669" y="831"/>
+      <point x="489" y="831" type="curve" smooth="yes"/>
+      <point x="323" y="831"/>
+      <point x="142" y="768"/>
+      <point x="34" y="632" type="curve"/>
+      <point x="57" y="607" type="line"/>
+      <point x="166" y="713"/>
+      <point x="347" y="768"/>
+      <point x="493" y="768" type="curve" smooth="yes"/>
+      <point x="645" y="768"/>
+      <point x="827" y="715"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/11/03 17:26:57</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>768</integer>
+            <integer>63</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>34</integer>
+            <integer>935</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
