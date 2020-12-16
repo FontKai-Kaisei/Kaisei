@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cornerbracketright" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="300D"/>
+  <note>
+cid00687
+</note>
+  <outline>
+    <contour>
+      <point x="353" y="-87" type="line"/>
+      <point x="353" y="703" type="line"/>
+      <point x="298" y="703" type="line"/>
+      <point x="298" y="-41" type="line"/>
+      <point x="77" y="-41" type="line"/>
+      <point x="77" y="-87" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

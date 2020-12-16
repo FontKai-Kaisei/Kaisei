@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash.rotat" format="2">
+  <advance height="500" width="1000"/>
+  <note>
+cid08735
+</note>
+  <outline>
+    <contour>
+      <point x="934" y="416" type="line"/>
+      <point x="957" y="465" type="line"/>
+      <point x="53" y="844" type="line"/>
+      <point x="30" y="796" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

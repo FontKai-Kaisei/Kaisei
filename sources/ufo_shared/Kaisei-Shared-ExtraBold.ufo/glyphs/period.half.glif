@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period.half" format="2">
+  <advance height="1000" width="500"/>
+  <note>
+cid00245
+</note>
+  <outline>
+    <contour>
+      <point x="321" y="68" type="curve" smooth="yes"/>
+      <point x="321" y="107"/>
+      <point x="289" y="138"/>
+      <point x="250" y="138" type="curve" smooth="yes"/>
+      <point x="211" y="138"/>
+      <point x="179" y="107"/>
+      <point x="179" y="68" type="curve" smooth="yes"/>
+      <point x="179" y="29"/>
+      <point x="211" y="-2"/>
+      <point x="250" y="-2" type="curve" smooth="yes"/>
+      <point x="289" y="-2"/>
+      <point x="321" y="29"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxLightArcDownAndRight" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="256D"/>
+  <note>
+cid08247
+</note>
+  <outline>
+    <contour>
+      <point x="1000" y="321" type="curve"/>
+      <point x="1000" y="433" type="line"/>
+      <point x="695" y="432"/>
+      <point x="447" y="185"/>
+      <point x="446" y="-120" type="curve"/>
+      <point x="558" y="-120" type="line"/>
+      <point x="559" y="124"/>
+      <point x="756" y="320"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Four-roman" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="2163"/>
+  <note>
+cid07578
+</note>
+  <outline>
+    <contour>
+      <point x="943" y="726" type="line"/>
+      <point x="943" y="762" type="line"/>
+      <point x="712" y="762" type="line"/>
+      <point x="712" y="726" type="line"/>
+      <point x="793" y="726" type="line"/>
+      <point x="614" y="86" type="line"/>
+      <point x="450" y="726" type="line"/>
+      <point x="508" y="726" type="line"/>
+      <point x="508" y="762" type="line"/>
+      <point x="52" y="762" type="line"/>
+      <point x="52" y="726" type="line"/>
+      <point x="117" y="726" type="line"/>
+      <point x="117" y="8" type="line"/>
+      <point x="54" y="8" type="line"/>
+      <point x="54" y="-26" type="line"/>
+      <point x="297" y="-26" type="line"/>
+      <point x="297" y="8" type="line"/>
+      <point x="232" y="8" type="line"/>
+      <point x="232" y="726" type="line"/>
+      <point x="318" y="726" type="line"/>
+      <point x="530" y="-25" type="line"/>
+      <point x="641" y="-25" type="line"/>
+      <point x="870" y="726" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

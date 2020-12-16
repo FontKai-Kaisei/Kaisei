@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal.half.rotat" format="2">
+  <advance height="500" width="1000"/>
+  <note>
+cid08979
+</note>
+  <outline>
+    <contour>
+      <point x="377" y="401" type="line"/>
+      <point x="429" y="401" type="line"/>
+      <point x="429" y="859" type="line"/>
+      <point x="377" y="859" type="line"/>
+    </contour>
+    <contour>
+      <point x="537" y="401" type="line"/>
+      <point x="589" y="401" type="line"/>
+      <point x="589" y="859" type="line"/>
+      <point x="537" y="859" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

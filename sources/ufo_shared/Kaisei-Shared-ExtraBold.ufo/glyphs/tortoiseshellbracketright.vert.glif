@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tortoiseshellbracketright.vert" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="FE3A"/>
+  <note>
+cid07902
+</note>
+  <outline>
+    <contour>
+      <point x="975" y="776" type="line"/>
+      <point x="926" y="800" type="line"/>
+      <point x="824" y="586" type="line"/>
+      <point x="176" y="586" type="line"/>
+      <point x="74" y="800" type="line"/>
+      <point x="25" y="776" type="line"/>
+      <point x="151" y="522" type="line"/>
+      <point x="849" y="522" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

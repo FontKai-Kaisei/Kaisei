@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon.half.rotat" format="2">
+  <advance height="500" width="1000"/>
+  <note>
+cid08976
+</note>
+  <outline>
+    <contour>
+      <point x="213" y="567" type="curve" smooth="yes"/>
+      <point x="247" y="567"/>
+      <point x="275" y="596"/>
+      <point x="275" y="630" type="curve" smooth="yes"/>
+      <point x="275" y="664"/>
+      <point x="247" y="693"/>
+      <point x="213" y="693" type="curve" smooth="yes"/>
+      <point x="178" y="693"/>
+      <point x="151" y="664"/>
+      <point x="151" y="630" type="curve" smooth="yes"/>
+      <point x="151" y="596"/>
+      <point x="178" y="567"/>
+    </contour>
+    <contour>
+      <point x="557" y="567" type="curve" smooth="yes"/>
+      <point x="592" y="567"/>
+      <point x="619" y="596"/>
+      <point x="619" y="630" type="curve" smooth="yes"/>
+      <point x="619" y="664"/>
+      <point x="592" y="693"/>
+      <point x="557" y="693" type="curve" smooth="yes"/>
+      <point x="523" y="693"/>
+      <point x="495" y="664"/>
+      <point x="495" y="630" type="curve" smooth="yes"/>
+      <point x="495" y="596"/>
+      <point x="523" y="567"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

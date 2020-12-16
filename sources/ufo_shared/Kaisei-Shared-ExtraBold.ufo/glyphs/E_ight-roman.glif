@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eight-roman" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="2167"/>
+  <note>
+cid07582
+</note>
+  <outline>
+    <contour>
+      <point x="676" y="7" type="line"/>
+      <point x="626" y="7" type="line"/>
+      <point x="626" y="726" type="line"/>
+      <point x="676" y="726" type="line"/>
+    </contour>
+    <contour>
+      <point x="830" y="7" type="line"/>
+      <point x="780" y="7" type="line"/>
+      <point x="780" y="726" type="line"/>
+      <point x="830" y="726" type="line"/>
+    </contour>
+    <contour>
+      <point x="995" y="-27" type="line"/>
+      <point x="995" y="7" type="line"/>
+      <point x="936" y="7" type="line"/>
+      <point x="936" y="726" type="line"/>
+      <point x="990" y="726" type="line"/>
+      <point x="990" y="762" type="line"/>
+      <point x="359" y="762" type="line"/>
+      <point x="359" y="726" type="line"/>
+      <point x="408" y="726" type="line"/>
+      <point x="302" y="116" type="line"/>
+      <point x="186" y="726" type="line"/>
+      <point x="232" y="726" type="line"/>
+      <point x="232" y="762" type="line"/>
+      <point x="6" y="762" type="line"/>
+      <point x="6" y="726" type="line"/>
+      <point x="55" y="726" type="line"/>
+      <point x="224" y="-25" type="line"/>
+      <point x="338" y="-25" type="line"/>
+      <point x="483" y="726" type="line"/>
+      <point x="523" y="726" type="line"/>
+      <point x="523" y="7" type="line"/>
+      <point x="462" y="7" type="line"/>
+      <point x="462" y="-27" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

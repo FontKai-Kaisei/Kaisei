@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright.half" format="2">
+  <advance height="1000" width="501"/>
+  <note>
+cid00292
+</note>
+  <outline>
+    <contour>
+      <point x="334" y="-118" type="line"/>
+      <point x="334" y="866" type="line"/>
+      <point x="136" y="866" type="line"/>
+      <point x="136" y="823" type="line"/>
+      <point x="256" y="823" type="line"/>
+      <point x="256" y="-76" type="line"/>
+      <point x="136" y="-76" type="line"/>
+      <point x="136" y="-118" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ten-roman" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="2169"/>
+  <note>
+cid07584
+</note>
+  <outline>
+    <contour>
+      <point x="872" y="-27" type="line"/>
+      <point x="872" y="7" type="line"/>
+      <point x="811" y="7" type="line"/>
+      <point x="549" y="401" type="line"/>
+      <point x="772" y="726" type="line"/>
+      <point x="843" y="726" type="line"/>
+      <point x="843" y="762" type="line"/>
+      <point x="572" y="762" type="line"/>
+      <point x="572" y="726" type="line"/>
+      <point x="667" y="726" type="line"/>
+      <point x="506" y="460" type="line"/>
+      <point x="356" y="726" type="line"/>
+      <point x="409" y="726" type="line"/>
+      <point x="409" y="762" type="line"/>
+      <point x="134" y="762" type="line"/>
+      <point x="134" y="726" type="line"/>
+      <point x="205" y="726" type="line"/>
+      <point x="436" y="368" type="line"/>
+      <point x="192" y="7" type="line"/>
+      <point x="119" y="7" type="line"/>
+      <point x="119" y="-27" type="line"/>
+      <point x="351" y="-27" type="line"/>
+      <point x="351" y="7" type="line"/>
+      <point x="274" y="7" type="line"/>
+      <point x="477" y="312" type="line"/>
+      <point x="673" y="7" type="line"/>
+      <point x="610" y="7" type="line"/>
+      <point x="610" y="-27" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

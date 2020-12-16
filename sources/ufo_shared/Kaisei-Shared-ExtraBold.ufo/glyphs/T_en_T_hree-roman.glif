@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ten_Three-roman" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid08295
+</note>
+  <outline>
+    <contour>
+      <point x="538" y="9" type="line"/>
+      <point x="534" y="9" type="line"/>
+      <point x="337" y="400" type="line"/>
+      <point x="506" y="728" type="line"/>
+      <point x="538" y="728" type="line"/>
+    </contour>
+    <contour>
+      <point x="687" y="9" type="line"/>
+      <point x="639" y="9" type="line"/>
+      <point x="639" y="728" type="line"/>
+      <point x="687" y="728" type="line"/>
+    </contour>
+    <contour>
+      <point x="834" y="9" type="line"/>
+      <point x="787" y="9" type="line"/>
+      <point x="787" y="728" type="line"/>
+      <point x="834" y="728" type="line"/>
+    </contour>
+    <contour>
+      <point x="987" y="-25" type="line"/>
+      <point x="987" y="9" type="line"/>
+      <point x="939" y="9" type="line"/>
+      <point x="939" y="728" type="line"/>
+      <point x="982" y="728" type="line"/>
+      <point x="982" y="764" type="line"/>
+      <point x="358" y="764" type="line"/>
+      <point x="358" y="728" type="line"/>
+      <point x="417" y="728" type="line"/>
+      <point x="294" y="459" type="line"/>
+      <point x="179" y="728" type="line"/>
+      <point x="224" y="728" type="line"/>
+      <point x="224" y="764" type="line"/>
+      <point x="8" y="764" type="line"/>
+      <point x="8" y="728" type="line"/>
+      <point x="53" y="728" type="line"/>
+      <point x="233" y="359" type="line"/>
+      <point x="55" y="9" type="line"/>
+      <point x="5" y="9" type="line"/>
+      <point x="5" y="-25" type="line"/>
+      <point x="181" y="-25" type="line"/>
+      <point x="181" y="9" type="line"/>
+      <point x="130" y="9" type="line"/>
+      <point x="275" y="297" type="line"/>
+      <point x="413" y="9" type="line"/>
+      <point x="366" y="9" type="line"/>
+      <point x="366" y="-25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

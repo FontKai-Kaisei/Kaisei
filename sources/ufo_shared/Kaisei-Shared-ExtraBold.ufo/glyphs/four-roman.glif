@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four-roman" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="2173"/>
+  <note>
+cid08095
+</note>
+  <outline>
+    <contour>
+      <point x="329" y="-23" type="line"/>
+      <point x="329" y="13" type="line"/>
+      <point x="274" y="13" type="line"/>
+      <point x="274" y="560" type="line"/>
+      <point x="97" y="525" type="line"/>
+      <point x="97" y="487" type="line"/>
+      <point x="159" y="500" type="line"/>
+      <point x="159" y="13" type="line"/>
+      <point x="98" y="13" type="line"/>
+      <point x="98" y="-23" type="line"/>
+    </contour>
+    <contour>
+      <point x="920" y="518" type="line"/>
+      <point x="920" y="555" type="line"/>
+      <point x="707" y="555" type="line"/>
+      <point x="707" y="518" type="line"/>
+      <point x="777" y="518" type="line"/>
+      <point x="621" y="58" type="line"/>
+      <point x="488" y="518" type="line"/>
+      <point x="537" y="518" type="line"/>
+      <point x="537" y="555" type="line"/>
+      <point x="314" y="555" type="line"/>
+      <point x="314" y="518" type="line"/>
+      <point x="364" y="518" type="line"/>
+      <point x="537" y="-20" type="line"/>
+      <point x="659" y="-20" type="line"/>
+      <point x="859" y="518" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="731" type="curve" smooth="yes"/>
+      <point x="287" y="771"/>
+      <point x="253" y="804"/>
+      <point x="214" y="804" type="curve" smooth="yes"/>
+      <point x="174" y="804"/>
+      <point x="141" y="772"/>
+      <point x="141" y="731" type="curve" smooth="yes"/>
+      <point x="141" y="692"/>
+      <point x="175" y="659"/>
+      <point x="214" y="659" type="curve" smooth="yes"/>
+      <point x="253" y="659"/>
+      <point x="287" y="692"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

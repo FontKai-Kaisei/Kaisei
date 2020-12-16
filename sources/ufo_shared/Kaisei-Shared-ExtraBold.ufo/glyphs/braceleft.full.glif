@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft.full" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="FF5B"/>
+  <note>
+cid00680
+</note>
+  <outline>
+    <contour>
+      <point x="880" y="-83" type="curve"/>
+      <point x="880" y="-70" type="line"/>
+      <point x="806" y="-53"/>
+      <point x="790" y="22"/>
+      <point x="790" y="88" type="curve" smooth="yes"/>
+      <point x="790" y="148"/>
+      <point x="789" y="209"/>
+      <point x="789" y="269" type="curve" smooth="yes"/>
+      <point x="789" y="333"/>
+      <point x="738" y="372"/>
+      <point x="679" y="382" type="curve"/>
+      <point x="739" y="391"/>
+      <point x="789" y="432"/>
+      <point x="789" y="496" type="curve" smooth="yes"/>
+      <point x="789" y="556"/>
+      <point x="790" y="617"/>
+      <point x="790" y="677" type="curve" smooth="yes"/>
+      <point x="790" y="743"/>
+      <point x="807" y="818"/>
+      <point x="880" y="836" type="curve"/>
+      <point x="880" y="848" type="line"/>
+      <point x="789" y="848"/>
+      <point x="705" y="797"/>
+      <point x="705" y="698" type="curve" smooth="yes"/>
+      <point x="705" y="632"/>
+      <point x="706" y="566"/>
+      <point x="706" y="500" type="curve" smooth="yes"/>
+      <point x="706" y="443"/>
+      <point x="666" y="400"/>
+      <point x="612" y="388" type="curve"/>
+      <point x="612" y="376" type="line"/>
+      <point x="667" y="363"/>
+      <point x="706" y="324"/>
+      <point x="706" y="265" type="curve" smooth="yes"/>
+      <point x="706" y="199"/>
+      <point x="705" y="133"/>
+      <point x="705" y="67" type="curve" smooth="yes"/>
+      <point x="705" y="-32"/>
+      <point x="789" y="-83"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

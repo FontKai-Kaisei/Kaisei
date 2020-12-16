@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Two-roman" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="2161"/>
+  <note>
+cid07576
+</note>
+  <outline>
+    <contour>
+      <point x="580" y="7" type="line"/>
+      <point x="417" y="7" type="line"/>
+      <point x="417" y="726" type="line"/>
+      <point x="580" y="726" type="line"/>
+    </contour>
+    <contour>
+      <point x="765" y="726" type="line"/>
+      <point x="765" y="762" type="line"/>
+      <point x="236" y="762" type="line"/>
+      <point x="236" y="726" type="line"/>
+      <point x="300" y="726" type="line"/>
+      <point x="300" y="7" type="line"/>
+      <point x="239" y="7" type="line"/>
+      <point x="239" y="-27" type="line"/>
+      <point x="762" y="-27" type="line"/>
+      <point x="762" y="7" type="line"/>
+      <point x="698" y="7" type="line"/>
+      <point x="698" y="726" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

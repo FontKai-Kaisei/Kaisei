@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.rotat" format="2">
+  <advance height="500"/>
+  <note>
+cid08846
+</note>
+  <outline>
+    <contour>
+      <point x="844" y="487" type="line"/>
+      <point x="919" y="522" type="line"/>
+      <point x="808" y="773" type="line"/>
+      <point x="764" y="748" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1000</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

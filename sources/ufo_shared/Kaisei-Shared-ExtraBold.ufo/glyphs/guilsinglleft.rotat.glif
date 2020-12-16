@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft.rotat" format="2">
+  <advance height="300" width="1000"/>
+  <note>
+cid08829
+</note>
+  <outline>
+    <contour>
+      <point x="564" y="601" type="line"/>
+      <point x="564" y="695" type="line"/>
+      <point x="370" y="854" type="line"/>
+      <point x="174" y="695" type="line"/>
+      <point x="174" y="601" type="line"/>
+      <point x="370" y="773" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
