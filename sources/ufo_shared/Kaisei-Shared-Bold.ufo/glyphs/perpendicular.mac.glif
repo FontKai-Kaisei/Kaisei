@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perpendicular.mac" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid07627
+</note>
+  <outline>
+    <contour>
+      <point x="835" y="11" type="line"/>
+      <point x="835" y="63" type="line"/>
+      <point x="531" y="63" type="line"/>
+      <point x="531" y="711" type="line"/>
+      <point x="467" y="711" type="line"/>
+      <point x="467" y="63" type="line"/>
+      <point x="162" y="63" type="line"/>
+      <point x="162" y="11" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

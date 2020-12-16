@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five-roman" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="2174"/>
+  <note>
+cid08096
+</note>
+  <outline>
+    <contour>
+      <point x="801" y="521" type="line"/>
+      <point x="801" y="551" type="line"/>
+      <point x="602" y="551" type="line"/>
+      <point x="602" y="541"/>
+      <point x="602" y="531"/>
+      <point x="603" y="521" type="curve"/>
+      <point x="656" y="521" type="line"/>
+      <point x="490" y="69" type="line"/>
+      <point x="356" y="521" type="line"/>
+      <point x="399" y="521" type="line"/>
+      <point x="399" y="551" type="line"/>
+      <point x="199" y="551" type="line"/>
+      <point x="201" y="541"/>
+      <point x="201" y="531"/>
+      <point x="201" y="521" type="curve"/>
+      <point x="256" y="521" type="line"/>
+      <point x="436" y="-9" type="line"/>
+      <point x="540" y="-9" type="line"/>
+      <point x="752" y="521" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

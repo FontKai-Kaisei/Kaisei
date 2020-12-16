@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen.full.001" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid00662
+</note>
+  <outline>
+    <contour>
+      <point x="726" y="337" type="line"/>
+      <point x="726" y="406" type="line"/>
+      <point x="275" y="406" type="line"/>
+      <point x="275" y="337" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downWhiteArrow" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="21E9"/>
+  <note>
+cid08011
+</note>
+  <outline>
+    <contour>
+      <point x="500" y="-59" type="line"/>
+      <point x="755" y="250" type="line"/>
+      <point x="595" y="250" type="line"/>
+      <point x="595" y="821" type="line"/>
+      <point x="404" y="821" type="line"/>
+      <point x="404" y="250" type="line"/>
+      <point x="245" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="-11" type="line"/>
+      <point x="303" y="223" type="line"/>
+      <point x="432" y="223" type="line"/>
+      <point x="432" y="785" type="line"/>
+      <point x="564" y="785" type="line"/>
+      <point x="564" y="223" type="line"/>
+      <point x="690" y="223" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.rotat" format="2">
+  <advance height="500"/>
+  <note>
+cid08854
+</note>
+  <outline>
+    <contour>
+      <point x="867" y="616" type="line"/>
+      <point x="880" y="689" type="line"/>
+      <point x="750" y="825" type="line"/>
+      <point x="743" y="782" type="line"/>
+    </contour>
+    <contour>
+      <point x="867" y="444" type="line"/>
+      <point x="880" y="517" type="line"/>
+      <point x="750" y="653" type="line"/>
+      <point x="743" y="610" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1000</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute.full" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid00708
+</note>
+  <outline>
+    <contour>
+      <point x="311" y="805" type="curve" smooth="yes"/>
+      <point x="311" y="831"/>
+      <point x="290" y="845"/>
+      <point x="266" y="845" type="curve" smooth="yes"/>
+      <point x="244" y="845"/>
+      <point x="234" y="834"/>
+      <point x="229" y="814" type="curve" smooth="yes"/>
+      <point x="226" y="803"/>
+      <point x="215" y="759"/>
+      <point x="204" y="717" type="curve" smooth="yes"/>
+      <point x="194" y="675"/>
+      <point x="184" y="634"/>
+      <point x="184" y="627" type="curve" smooth="yes"/>
+      <point x="184" y="622"/>
+      <point x="187" y="616"/>
+      <point x="195" y="616" type="curve" smooth="yes"/>
+      <point x="201" y="616"/>
+      <point x="207" y="620"/>
+      <point x="211" y="625" type="curve" smooth="yes"/>
+      <point x="234" y="651"/>
+      <point x="311" y="774"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

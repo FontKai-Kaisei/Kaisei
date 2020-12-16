@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="existential.full" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid00755
+</note>
+  <outline>
+    <contour>
+      <point x="160" y="-8" type="line"/>
+      <point x="795" y="-8" type="line"/>
+      <point x="795" y="705" type="line"/>
+      <point x="160" y="705" type="line"/>
+      <point x="160" y="641" type="line"/>
+      <point x="720" y="641" type="line"/>
+      <point x="720" y="379" type="line"/>
+      <point x="177" y="379" type="line"/>
+      <point x="177" y="317" type="line"/>
+      <point x="720" y="317" type="line"/>
+      <point x="720" y="53" type="line"/>
+      <point x="160" y="53" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

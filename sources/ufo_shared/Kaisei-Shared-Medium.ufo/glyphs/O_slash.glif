@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance height="1000" width="820"/>
+  <unicode hex="00D8"/>
+  <note>
+cid00142
+</note>
+  <outline>
+    <contour>
+      <point x="652" y="372" type="curve" smooth="yes"/>
+      <point x="652" y="222"/>
+      <point x="599" y="38"/>
+      <point x="417" y="38" type="curve" smooth="yes"/>
+      <point x="334" y="38"/>
+      <point x="268" y="78"/>
+      <point x="228" y="150" type="curve"/>
+      <point x="621" y="555" type="line"/>
+      <point x="644" y="497"/>
+      <point x="652" y="434"/>
+    </contour>
+    <contour>
+      <point x="597" y="603" type="curve"/>
+      <point x="208" y="195" type="line"/>
+      <point x="188" y="250"/>
+      <point x="180" y="309"/>
+      <point x="180" y="367" type="curve" smooth="yes"/>
+      <point x="180" y="511"/>
+      <point x="243" y="707"/>
+      <point x="417" y="707" type="curve" smooth="yes"/>
+      <point x="495" y="707"/>
+      <point x="557" y="670"/>
+    </contour>
+    <contour>
+      <point x="774" y="714" type="line"/>
+      <point x="738" y="751" type="line"/>
+      <point x="654" y="663" type="line"/>
+      <point x="587" y="719"/>
+      <point x="502" y="740"/>
+      <point x="417" y="740" type="curve" smooth="yes"/>
+      <point x="204" y="740"/>
+      <point x="61" y="575"/>
+      <point x="61" y="367" type="curve" smooth="yes"/>
+      <point x="61" y="279"/>
+      <point x="82" y="191"/>
+      <point x="139" y="122" type="curve"/>
+      <point x="46" y="24" type="line"/>
+      <point x="80" y="-2" type="line"/>
+      <point x="170" y="89" type="line"/>
+      <point x="238" y="28"/>
+      <point x="327" y="4"/>
+      <point x="417" y="4" type="curve" smooth="yes"/>
+      <point x="646" y="4"/>
+      <point x="772" y="153"/>
+      <point x="772" y="376" type="curve" smooth="yes"/>
+      <point x="772" y="466"/>
+      <point x="749" y="557"/>
+      <point x="690" y="627" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

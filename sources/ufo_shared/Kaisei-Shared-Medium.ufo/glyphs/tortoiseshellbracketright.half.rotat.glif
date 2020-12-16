@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tortoiseshellbracketright.half.rotat" format="2">
+  <advance height="500" width="1000"/>
+  <note>
+cid09266
+</note>
+  <outline>
+    <contour>
+      <point x="146" y="543" type="line"/>
+      <point x="846" y="543" type="line"/>
+      <point x="966" y="788" type="line"/>
+      <point x="925" y="809" type="line"/>
+      <point x="822" y="587" type="line"/>
+      <point x="170" y="587" type="line"/>
+      <point x="69" y="809" type="line"/>
+      <point x="28" y="788" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.rotat" format="2">
+  <advance height="500"/>
+  <note>
+cid08849
+</note>
+  <outline>
+    <contour>
+      <point x="841" y="477" type="curve" smooth="yes"/>
+      <point x="863" y="477"/>
+      <point x="879" y="501"/>
+      <point x="879" y="522" type="curve" smooth="yes"/>
+      <point x="879" y="542"/>
+      <point x="863" y="563"/>
+      <point x="842" y="563" type="curve" smooth="yes"/>
+      <point x="838" y="563"/>
+      <point x="834" y="561"/>
+      <point x="830" y="560" type="curve"/>
+      <point x="821" y="583"/>
+      <point x="813" y="608"/>
+      <point x="813" y="633" type="curve" smooth="yes"/>
+      <point x="813" y="657"/>
+      <point x="821" y="680"/>
+      <point x="830" y="701" type="curve"/>
+      <point x="833" y="699"/>
+      <point x="838" y="697"/>
+      <point x="842" y="697" type="curve" smooth="yes"/>
+      <point x="863" y="697"/>
+      <point x="879" y="719"/>
+      <point x="879" y="739" type="curve" smooth="yes"/>
+      <point x="879" y="760"/>
+      <point x="863" y="783"/>
+      <point x="841" y="783" type="curve" smooth="yes"/>
+      <point x="788" y="783"/>
+      <point x="769" y="670"/>
+      <point x="769" y="630" type="curve" smooth="yes"/>
+      <point x="769" y="590"/>
+      <point x="787" y="477"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1000</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

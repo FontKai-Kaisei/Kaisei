@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.rotat" format="2">
+  <advance height="500"/>
+  <note>
+cid08856
+</note>
+  <outline>
+    <contour>
+      <point x="845" y="456" type="line"/>
+      <point x="886" y="464" type="line"/>
+      <point x="833" y="632" type="line"/>
+      <point x="885" y="794" type="line"/>
+      <point x="844" y="804" type="line"/>
+      <point x="764" y="630" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1000</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

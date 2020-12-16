@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright.rotat" format="2">
+  <advance height="500" width="1000"/>
+  <note>
+cid08842
+</note>
+  <outline>
+    <contour>
+      <point x="370" y="600" type="line"/>
+      <point x="560" y="754" type="line"/>
+      <point x="560" y="837" type="line"/>
+      <point x="370" y="669" type="line"/>
+      <point x="178" y="837" type="line"/>
+      <point x="178" y="754" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="424" type="line"/>
+      <point x="560" y="580" type="line"/>
+      <point x="560" y="660" type="line"/>
+      <point x="370" y="494" type="line"/>
+      <point x="178" y="660" type="line"/>
+      <point x="178" y="579" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

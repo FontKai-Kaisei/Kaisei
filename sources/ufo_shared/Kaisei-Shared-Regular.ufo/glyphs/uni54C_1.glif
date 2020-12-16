@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni54C1" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="54C1"/>
+  <note>
+cid03516
+</note>
+  <outline>
+    <contour>
+      <point x="254" y="469" type="line"/>
+      <point x="615" y="469" type="line" smooth="yes"/>
+      <point x="706" y="469"/>
+      <point x="760" y="514"/>
+      <point x="760" y="612" type="curve" smooth="yes"/>
+      <point x="760" y="785" type="line"/>
+      <point x="254" y="785" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="-42" type="line"/>
+      <point x="302" y="-42" type="line" smooth="yes"/>
+      <point x="399" y="-42"/>
+      <point x="455" y="3"/>
+      <point x="455" y="108" type="curve" smooth="yes"/>
+      <point x="455" y="370" type="line"/>
+      <point x="91" y="370" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="-4" type="curve" smooth="yes"/>
+      <point x="173" y="-3" type="line"/>
+      <point x="173" y="334" type="line"/>
+      <point x="375" y="334" type="line"/>
+      <point x="375" y="84" type="line" smooth="yes"/>
+      <point x="375" y="47"/>
+      <point x="355" y="-4"/>
+    </contour>
+    <contour>
+      <point x="544" y="-42" type="line"/>
+      <point x="758" y="-42" type="line" smooth="yes"/>
+      <point x="858" y="-42"/>
+      <point x="917" y="-3"/>
+      <point x="917" y="108" type="curve" smooth="yes"/>
+      <point x="917" y="370" type="line"/>
+      <point x="544" y="370" type="line"/>
+    </contour>
+    <contour>
+      <point x="761" y="-4" type="curve" smooth="yes"/>
+      <point x="624" y="-3" type="line"/>
+      <point x="624" y="334" type="line"/>
+      <point x="833" y="334" type="line"/>
+      <point x="833" y="84" type="line" smooth="yes"/>
+      <point x="833" y="42"/>
+      <point x="818" y="-4"/>
+    </contour>
+    <contour>
+      <point x="334" y="505" type="line"/>
+      <point x="334" y="746" type="line"/>
+      <point x="673" y="746" type="line"/>
+      <point x="673" y="588" type="line" smooth="yes"/>
+      <point x="673" y="542"/>
+      <point x="645" y="504"/>
+      <point x="589" y="505" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

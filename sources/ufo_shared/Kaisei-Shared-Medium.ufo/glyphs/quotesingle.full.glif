@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle.full" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="FF07"/>
+  <note>
+cid08006
+</note>
+  <outline>
+    <contour>
+      <point x="541" y="781" type="line"/>
+      <point x="448" y="781" type="line"/>
+      <point x="469" y="537" type="line"/>
+      <point x="511" y="537" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

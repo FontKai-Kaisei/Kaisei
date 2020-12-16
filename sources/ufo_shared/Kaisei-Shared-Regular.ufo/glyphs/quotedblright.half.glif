@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright.half" format="2">
+  <advance height="1000" width="500"/>
+  <note>
+cid00233
+</note>
+  <outline>
+    <contour>
+      <point x="257" y="550" type="curve" smooth="yes"/>
+      <point x="264" y="550"/>
+      <point x="269" y="562"/>
+      <point x="271" y="567" type="curve" smooth="yes"/>
+      <point x="285" y="596"/>
+      <point x="354" y="772"/>
+      <point x="354" y="797" type="curve" smooth="yes"/>
+      <point x="354" y="817"/>
+      <point x="342" y="829"/>
+      <point x="322" y="829" type="curve" smooth="yes"/>
+      <point x="304" y="829"/>
+      <point x="296" y="815"/>
+      <point x="292" y="799" type="curve" smooth="yes"/>
+      <point x="283" y="766"/>
+      <point x="279" y="731"/>
+      <point x="273" y="697" type="curve" smooth="yes"/>
+      <point x="266" y="655"/>
+      <point x="258" y="614"/>
+      <point x="253" y="572" type="curve"/>
+      <point x="252" y="569"/>
+      <point x="252" y="565"/>
+      <point x="252" y="562" type="curve" smooth="yes"/>
+      <point x="252" y="559"/>
+      <point x="253" y="550"/>
+    </contour>
+    <contour>
+      <point x="152" y="550" type="curve" smooth="yes"/>
+      <point x="159" y="550"/>
+      <point x="163" y="562"/>
+      <point x="166" y="567" type="curve" smooth="yes"/>
+      <point x="179" y="596"/>
+      <point x="248" y="772"/>
+      <point x="248" y="797" type="curve" smooth="yes"/>
+      <point x="248" y="817"/>
+      <point x="236" y="829"/>
+      <point x="216" y="829" type="curve" smooth="yes"/>
+      <point x="198" y="829"/>
+      <point x="191" y="815"/>
+      <point x="187" y="799" type="curve" smooth="yes"/>
+      <point x="177" y="766"/>
+      <point x="173" y="731"/>
+      <point x="167" y="697" type="curve" smooth="yes"/>
+      <point x="160" y="655"/>
+      <point x="153" y="614"/>
+      <point x="147" y="572" type="curve" smooth="yes"/>
+      <point x="146" y="562" type="line" smooth="yes"/>
+      <point x="146" y="559"/>
+      <point x="147" y="550"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

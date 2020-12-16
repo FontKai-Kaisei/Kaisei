@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackstar" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="2605"/>
+  <note>
+cid00722
+</note>
+  <outline>
+    <contour>
+      <point x="220" y="-52" type="line"/>
+      <point x="499" y="143" type="line"/>
+      <point x="775" y="-52" type="line"/>
+      <point x="673" y="274" type="line"/>
+      <point x="954" y="473" type="line"/>
+      <point x="611" y="473" type="line"/>
+      <point x="499" y="811" type="line"/>
+      <point x="386" y="473" type="line"/>
+      <point x="47" y="473" type="line"/>
+      <point x="320" y="274" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

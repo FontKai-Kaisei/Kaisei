@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="universal.full" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid00754
+</note>
+  <outline>
+    <contour>
+      <point x="668" y="461" type="line"/>
+      <point x="500" y="89" type="line"/>
+      <point x="335" y="461" type="line"/>
+    </contour>
+    <contour>
+      <point x="874" y="757" type="line"/>
+      <point x="813" y="783" type="line"/>
+      <point x="691" y="515" type="line"/>
+      <point x="313" y="515" type="line"/>
+      <point x="193" y="783" type="line"/>
+      <point x="127" y="757" type="line"/>
+      <point x="500" y="-59" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

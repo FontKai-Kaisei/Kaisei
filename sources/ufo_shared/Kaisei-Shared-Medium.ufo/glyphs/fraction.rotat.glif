@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction.rotat" format="2">
+  <advance height="760" width="1000"/>
+  <note>
+cid08823
+</note>
+  <outline>
+    <contour>
+      <point x="900" y="162" type="line"/>
+      <point x="939" y="218" type="line"/>
+      <point x="22" y="838" type="line"/>
+      <point x="-15" y="784" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

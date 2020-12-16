@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whitecornerbracketleft.half" format="2">
+  <advance height="1000" width="500"/>
+  <note>
+cid00510
+</note>
+  <outline>
+    <contour>
+      <point x="422" y="760" type="line"/>
+      <point x="238" y="760" type="line"/>
+      <point x="238" y="234" type="line"/>
+      <point x="186" y="234" type="line"/>
+      <point x="186" y="811" type="line"/>
+      <point x="422" y="811" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="728" type="line"/>
+      <point x="455" y="843" type="line"/>
+      <point x="152" y="843" type="line"/>
+      <point x="152" y="202" type="line"/>
+      <point x="271" y="202" type="line"/>
+      <point x="271" y="728" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

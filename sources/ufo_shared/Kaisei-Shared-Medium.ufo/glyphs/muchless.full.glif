@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="muchless.full" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid00763
+</note>
+  <outline>
+    <contour>
+      <point x="652" y="732" type="line"/>
+      <point x="617" y="771" type="line"/>
+      <point x="129" y="377" type="line"/>
+      <point x="617" y="-18" type="line"/>
+      <point x="652" y="21" type="line"/>
+      <point x="197" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="835" y="732" type="line"/>
+      <point x="800" y="771" type="line"/>
+      <point x="298" y="377" type="line"/>
+      <point x="800" y="-18" type="line"/>
+      <point x="835" y="21" type="line"/>
+      <point x="366" y="377" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="radical.full" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid00765
+</note>
+  <outline>
+    <contour>
+      <point x="289" y="-125" type="line"/>
+      <point x="528" y="786" type="line"/>
+      <point x="964" y="786" type="line"/>
+      <point x="964" y="834" type="line"/>
+      <point x="492" y="834" type="line"/>
+      <point x="290" y="54" type="line"/>
+      <point x="164" y="336" type="line"/>
+      <point x="26" y="119" type="line"/>
+      <point x="49" y="74" type="line"/>
+      <point x="140" y="215" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

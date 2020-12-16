@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sharp-musical" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="266F"/>
+  <note>
+cid00773
+</note>
+  <outline>
+    <contour>
+      <point x="289" y="-54" type="line"/>
+      <point x="338" y="-54" type="line"/>
+      <point x="379" y="205" type="line"/>
+      <point x="562" y="221" type="line"/>
+      <point x="522" y="-54" type="line"/>
+      <point x="573" y="-54" type="line"/>
+      <point x="614" y="225" type="line"/>
+      <point x="833" y="244" type="line"/>
+      <point x="840" y="312" type="line"/>
+      <point x="625" y="294" type="line"/>
+      <point x="662" y="531" type="line"/>
+      <point x="865" y="548" type="line"/>
+      <point x="872" y="616" type="line"/>
+      <point x="672" y="599" type="line"/>
+      <point x="707" y="797" type="line"/>
+      <point x="657" y="797" type="line"/>
+      <point x="622" y="595" type="line"/>
+      <point x="439" y="579" type="line"/>
+      <point x="473" y="797" type="line"/>
+      <point x="425" y="797" type="line"/>
+      <point x="389" y="575" type="line"/>
+      <point x="185" y="557" type="line"/>
+      <point x="176" y="488" type="line"/>
+      <point x="378" y="506" type="line"/>
+      <point x="340" y="269" type="line"/>
+      <point x="137" y="251" type="line"/>
+      <point x="128" y="183" type="line"/>
+      <point x="329" y="201" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="274" type="line"/>
+      <point x="428" y="510" type="line"/>
+      <point x="611" y="526" type="line"/>
+      <point x="573" y="289" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

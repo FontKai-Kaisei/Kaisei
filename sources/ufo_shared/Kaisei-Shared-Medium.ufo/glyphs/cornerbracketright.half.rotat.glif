@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cornerbracketright.half.rotat" format="2">
+  <advance height="500" width="1000"/>
+  <note>
+cid09087
+</note>
+  <outline>
+    <contour>
+      <point x="37" y="571" type="line"/>
+      <point x="713" y="571" type="line"/>
+      <point x="713" y="615" type="line"/>
+      <point x="76" y="615" type="line"/>
+      <point x="76" y="823" type="line"/>
+      <point x="37" y="823" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

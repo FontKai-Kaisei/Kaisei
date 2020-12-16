@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon.full" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="FF1B"/>
+  <note>
+cid00640
+</note>
+  <outline>
+    <contour>
+      <point x="453" y="-77" type="curve" smooth="yes"/>
+      <point x="464" y="-77"/>
+      <point x="477" y="-71"/>
+      <point x="482" y="-63" type="curve" smooth="yes"/>
+      <point x="496" y="-39"/>
+      <point x="566" y="140"/>
+      <point x="566" y="163" type="curve" smooth="yes"/>
+      <point x="566" y="181"/>
+      <point x="546" y="193"/>
+      <point x="526" y="193" type="curve" smooth="yes"/>
+      <point x="505" y="193"/>
+      <point x="437" y="182"/>
+      <point x="437" y="163" type="curve" smooth="yes"/>
+      <point x="437" y="157"/>
+      <point x="440" y="152"/>
+      <point x="443" y="147" type="curve" smooth="yes"/>
+      <point x="446" y="142"/>
+      <point x="449" y="136"/>
+      <point x="449" y="130" type="curve" smooth="yes"/>
+      <point x="449" y="122"/>
+      <point x="448" y="112"/>
+      <point x="447" y="103" type="curve" smooth="yes"/>
+      <point x="442" y="51"/>
+      <point x="436" y="-1"/>
+      <point x="429" y="-53" type="curve" smooth="yes"/>
+      <point x="429" y="-55"/>
+      <point x="428" y="-57"/>
+      <point x="428" y="-58" type="curve" smooth="yes"/>
+      <point x="428" y="-68"/>
+      <point x="442" y="-77"/>
+    </contour>
+    <contour>
+      <point x="499" y="506" type="curve" smooth="yes"/>
+      <point x="536" y="506"/>
+      <point x="566" y="536"/>
+      <point x="566" y="572" type="curve" smooth="yes"/>
+      <point x="566" y="608"/>
+      <point x="536" y="639"/>
+      <point x="499" y="639" type="curve" smooth="yes"/>
+      <point x="462" y="639"/>
+      <point x="431" y="609"/>
+      <point x="431" y="572" type="curve" smooth="yes"/>
+      <point x="431" y="535"/>
+      <point x="462" y="506"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicaland.full" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid00749
+</note>
+  <outline>
+    <contour>
+      <point x="926" y="47" type="line"/>
+      <point x="503" y="739" type="line"/>
+      <point x="494" y="739" type="line"/>
+      <point x="71" y="45" type="line"/>
+      <point x="112" y="5" type="line"/>
+      <point x="498" y="654" type="line"/>
+      <point x="885" y="5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

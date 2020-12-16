@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxLightDownAndLeft.half.rotat" format="2">
+  <advance height="500" width="1000"/>
+  <note>
+cid09293
+</note>
+  <outline>
+    <contour>
+      <point x="1" y="609" type="line"/>
+      <point x="521" y="609" type="line"/>
+      <point x="521" y="880" type="line"/>
+      <point x="480" y="880" type="line"/>
+      <point x="480" y="650" type="line"/>
+      <point x="1" y="650" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

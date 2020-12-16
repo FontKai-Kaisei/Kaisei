@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edieresis.rotat" format="2">
+  <advance height="545" width="1000"/>
+  <note>
+cid08922
+</note>
+  <outline>
+    <contour>
+      <point x="474" y="494" type="curve"/>
+      <point x="472" y="543"/>
+      <point x="470" y="593"/>
+      <point x="470" y="642" type="curve" smooth="yes"/>
+      <point x="470" y="672"/>
+      <point x="471" y="702"/>
+      <point x="472" y="732" type="curve"/>
+      <point x="546" y="717"/>
+      <point x="634" y="683"/>
+      <point x="634" y="594" type="curve" smooth="yes"/>
+      <point x="634" y="499"/>
+      <point x="548" y="495"/>
+    </contour>
+    <contour>
+      <point x="242" y="367" type="curve" smooth="yes"/>
+      <point x="251" y="367"/>
+      <point x="260" y="375"/>
+      <point x="260" y="384" type="curve" smooth="yes"/>
+      <point x="260" y="391"/>
+      <point x="257" y="396"/>
+      <point x="252" y="400" type="curve" smooth="yes"/>
+      <point x="239" y="412"/>
+      <point x="225" y="421"/>
+      <point x="213" y="434" type="curve" smooth="yes"/>
+      <point x="174" y="478"/>
+      <point x="158" y="531"/>
+      <point x="158" y="589" type="curve" smooth="yes"/>
+      <point x="158" y="702"/>
+      <point x="285" y="740"/>
+      <point x="378" y="740" type="curve" smooth="yes"/>
+      <point x="399" y="740"/>
+      <point x="419" y="738"/>
+      <point x="440" y="737" type="curve"/>
+      <point x="441" y="694"/>
+      <point x="441" y="651"/>
+      <point x="441" y="609" type="curve" smooth="yes"/>
+      <point x="441" y="573"/>
+      <point x="440" y="538"/>
+      <point x="439" y="502" type="curve" smooth="yes"/>
+      <point x="438" y="476"/>
+      <point x="436" y="449"/>
+      <point x="436" y="422" type="curve" smooth="yes"/>
+      <point x="436" y="400"/>
+      <point x="439" y="386"/>
+      <point x="464" y="386" type="curve" smooth="yes"/>
+      <point x="586" y="386"/>
+      <point x="662" y="469"/>
+      <point x="662" y="589" type="curve" smooth="yes"/>
+      <point x="662" y="634"/>
+      <point x="646" y="687"/>
+      <point x="622" y="726" type="curve" smooth="yes"/>
+      <point x="569" y="812"/>
+      <point x="479" y="848"/>
+      <point x="380" y="848" type="curve" smooth="yes"/>
+      <point x="293" y="848"/>
+      <point x="208" y="817"/>
+      <point x="159" y="741" type="curve" smooth="yes"/>
+      <point x="133" y="701"/>
+      <point x="117" y="642"/>
+      <point x="117" y="595" type="curve" smooth="yes"/>
+      <point x="117" y="539"/>
+      <point x="136" y="483"/>
+      <point x="168" y="437" type="curve" smooth="yes"/>
+      <point x="181" y="419"/>
+      <point x="216" y="378"/>
+      <point x="235" y="368" type="curve" smooth="yes"/>
+      <point x="237" y="367"/>
+      <point x="240" y="367"/>
+    </contour>
+    <contour>
+      <point x="813" y="677" type="curve" smooth="yes"/>
+      <point x="846" y="677"/>
+      <point x="870" y="704"/>
+      <point x="870" y="736" type="curve" smooth="yes"/>
+      <point x="870" y="768"/>
+      <point x="846" y="795"/>
+      <point x="813" y="795" type="curve" smooth="yes"/>
+      <point x="781" y="795"/>
+      <point x="757" y="768"/>
+      <point x="757" y="736" type="curve" smooth="yes"/>
+      <point x="757" y="704"/>
+      <point x="781" y="677"/>
+    </contour>
+    <contour>
+      <point x="813" y="450" type="curve" smooth="yes"/>
+      <point x="846" y="450"/>
+      <point x="870" y="476"/>
+      <point x="870" y="508" type="curve" smooth="yes"/>
+      <point x="870" y="540"/>
+      <point x="846" y="567"/>
+      <point x="813" y="567" type="curve" smooth="yes"/>
+      <point x="781" y="567"/>
+      <point x="757" y="540"/>
+      <point x="757" y="508" type="curve" smooth="yes"/>
+      <point x="757" y="476"/>
+      <point x="781" y="450"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

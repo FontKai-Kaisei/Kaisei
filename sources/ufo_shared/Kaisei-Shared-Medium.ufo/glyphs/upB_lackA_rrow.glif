@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upBlackArrow" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="2B06"/>
+  <note>
+cid08208
+</note>
+  <outline>
+    <contour>
+      <point x="732" y="495" type="line"/>
+      <point x="500" y="775" type="line"/>
+      <point x="268" y="495" type="line"/>
+      <point x="412" y="495" type="line"/>
+      <point x="412" y="-19" type="line"/>
+      <point x="586" y="-19" type="line"/>
+      <point x="586" y="495" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

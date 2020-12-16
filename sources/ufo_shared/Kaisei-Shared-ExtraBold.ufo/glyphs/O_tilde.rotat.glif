@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otilde.rotat" format="2">
+  <advance height="820" width="1000"/>
+  <note>
+cid08903
+</note>
+  <outline>
+    <contour>
+      <point x="485" y="273" type="curve" smooth="yes"/>
+      <point x="366" y="273"/>
+      <point x="151" y="312"/>
+      <point x="151" y="471" type="curve" smooth="yes"/>
+      <point x="151" y="630"/>
+      <point x="365" y="673"/>
+      <point x="485" y="673" type="curve" smooth="yes"/>
+      <point x="529" y="673"/>
+      <point x="573" y="668"/>
+      <point x="616" y="658" type="curve" smooth="yes"/>
+      <point x="704" y="638"/>
+      <point x="825" y="579"/>
+      <point x="825" y="471" type="curve" smooth="yes"/>
+      <point x="825" y="310"/>
+      <point x="604" y="273"/>
+    </contour>
+    <contour>
+      <point x="485" y="121" type="curve" smooth="yes"/>
+      <point x="701" y="121"/>
+      <point x="859" y="239"/>
+      <point x="859" y="471" type="curve" smooth="yes"/>
+      <point x="859" y="692"/>
+      <point x="689" y="819"/>
+      <point x="485" y="819" type="curve" smooth="yes"/>
+      <point x="269" y="819"/>
+      <point x="117" y="703"/>
+      <point x="117" y="471" type="curve" smooth="yes"/>
+      <point x="117" y="235"/>
+      <point x="264" y="121"/>
+    </contour>
+    <contour>
+      <point x="982" y="302" type="curve"/>
+      <point x="1020" y="339" type="line"/>
+      <point x="1007" y="350"/>
+      <point x="973" y="377"/>
+      <point x="973" y="395" type="curve" smooth="yes"/>
+      <point x="973" y="431"/>
+      <point x="1015" y="468"/>
+      <point x="1015" y="518" type="curve" smooth="yes"/>
+      <point x="1015" y="581"/>
+      <point x="974" y="606"/>
+      <point x="929" y="638" type="curve"/>
+      <point x="901" y="596" type="line"/>
+      <point x="913" y="586"/>
+      <point x="954" y="555"/>
+      <point x="954" y="538" type="curve" smooth="yes"/>
+      <point x="954" y="510"/>
+      <point x="911" y="465"/>
+      <point x="911" y="410" type="curve" smooth="yes"/>
+      <point x="911" y="357"/>
+      <point x="946" y="334"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

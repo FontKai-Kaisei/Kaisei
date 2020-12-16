@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni56D7" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="56D7"/>
+  <note>
+cid04459
+</note>
+  <outline>
+    <contour>
+      <point x="792" y="721" type="line"/>
+      <point x="792" y="161" type="line" smooth="yes"/>
+      <point x="792" y="88"/>
+      <point x="756" y="9"/>
+      <point x="672" y="9" type="curve" smooth="yes"/>
+      <point x="200" y="9" type="line"/>
+      <point x="200" y="721" type="line"/>
+    </contour>
+    <contour>
+      <point x="890" y="162" type="curve" smooth="yes"/>
+      <point x="890" y="767" type="line"/>
+      <point x="107" y="767" type="line"/>
+      <point x="107" y="-38" type="line"/>
+      <point x="687" y="-38" type="line" smooth="yes"/>
+      <point x="822" y="-38"/>
+      <point x="890" y="26"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

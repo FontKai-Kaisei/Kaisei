@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightcurlybracketlowerhook.vert" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid08170
+</note>
+  <outline>
+    <contour>
+      <point x="1000" y="346" type="line"/>
+      <point x="1000" y="419" type="line"/>
+      <point x="500" y="419" type="line" smooth="yes"/>
+      <point x="434" y="419"/>
+      <point x="350" y="440"/>
+      <point x="322" y="507" type="curve"/>
+      <point x="282" y="507" type="line"/>
+      <point x="292" y="416"/>
+      <point x="410" y="346"/>
+      <point x="494" y="346" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackCircle.alt" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid08259
+</note>
+  <outline>
+    <contour>
+      <point x="959" y="360" type="curve" smooth="yes"/>
+      <point x="959" y="613"/>
+      <point x="750" y="810"/>
+      <point x="500" y="810" type="curve" smooth="yes"/>
+      <point x="250" y="810"/>
+      <point x="41" y="613"/>
+      <point x="41" y="360" type="curve" smooth="yes"/>
+      <point x="41" y="107"/>
+      <point x="250" y="-89"/>
+      <point x="500" y="-89" type="curve" smooth="yes"/>
+      <point x="750" y="-89"/>
+      <point x="959" y="107"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

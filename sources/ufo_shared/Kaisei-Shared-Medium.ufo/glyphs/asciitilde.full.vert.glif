@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde.full.vert" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid07894
+</note>
+  <outline>
+    <contour>
+      <point x="615" y="184" type="curve" smooth="yes"/>
+      <point x="615" y="219"/>
+      <point x="608" y="253"/>
+      <point x="595" y="286" type="curve" smooth="yes"/>
+      <point x="559" y="376"/>
+      <point x="483" y="513"/>
+      <point x="483" y="607" type="curve" smooth="yes"/>
+      <point x="483" y="676"/>
+      <point x="517" y="726"/>
+      <point x="576" y="762" type="curve"/>
+      <point x="556" y="790" type="line"/>
+      <point x="495" y="766"/>
+      <point x="456" y="729"/>
+      <point x="433" y="701" type="curve" smooth="yes"/>
+      <point x="400" y="660"/>
+      <point x="385" y="610"/>
+      <point x="385" y="558" type="curve" smooth="yes"/>
+      <point x="385" y="445"/>
+      <point x="453" y="345"/>
+      <point x="494" y="243" type="curve" smooth="yes"/>
+      <point x="508" y="209"/>
+      <point x="518" y="172"/>
+      <point x="518" y="134" type="curve" smooth="yes"/>
+      <point x="518" y="99"/>
+      <point x="509" y="74"/>
+      <point x="495" y="51" type="curve" smooth="yes"/>
+      <point x="480" y="28"/>
+      <point x="460" y="8"/>
+      <point x="437" y="-15" type="curve"/>
+      <point x="461" y="-37" type="line"/>
+      <point x="562" y="19"/>
+      <point x="615" y="92"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

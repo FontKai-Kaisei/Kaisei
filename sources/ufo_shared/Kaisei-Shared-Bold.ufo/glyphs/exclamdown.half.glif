@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown.half" format="2">
+  <advance height="1000" width="500"/>
+  <note>
+cid00612
+</note>
+  <outline>
+    <contour>
+      <point x="306" y="-63" type="curve" smooth="yes"/>
+      <point x="306" y="-36"/>
+      <point x="302" y="-9"/>
+      <point x="300" y="18" type="curve" smooth="yes"/>
+      <point x="289" y="140"/>
+      <point x="282" y="261"/>
+      <point x="276" y="382" type="curve"/>
+      <point x="229" y="382" type="line"/>
+      <point x="220" y="260"/>
+      <point x="214" y="138"/>
+      <point x="202" y="15" type="curve" smooth="yes"/>
+      <point x="200" y="-11"/>
+      <point x="196" y="-37"/>
+      <point x="196" y="-63" type="curve" smooth="yes"/>
+      <point x="196" y="-92"/>
+      <point x="221" y="-121"/>
+      <point x="251" y="-121" type="curve" smooth="yes"/>
+      <point x="283" y="-121"/>
+      <point x="306" y="-94"/>
+    </contour>
+    <contour>
+      <point x="306" y="492" type="curve" smooth="yes"/>
+      <point x="306" y="521"/>
+      <point x="280" y="550"/>
+      <point x="250" y="550" type="curve" smooth="yes"/>
+      <point x="220" y="550"/>
+      <point x="194" y="521"/>
+      <point x="194" y="492" type="curve" smooth="yes"/>
+      <point x="194" y="463"/>
+      <point x="219" y="433"/>
+      <point x="249" y="433" type="curve" smooth="yes"/>
+      <point x="284" y="433"/>
+      <point x="306" y="457"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

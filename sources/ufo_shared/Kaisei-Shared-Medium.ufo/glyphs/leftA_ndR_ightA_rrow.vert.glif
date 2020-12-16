@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftAndRightArrow.vert" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid08312
+</note>
+  <outline>
+    <contour>
+      <point x="486" y="221" type="line"/>
+      <point x="455" y="234" type="line"/>
+      <point x="355" y="99" type="line"/>
+      <point x="355" y="761" type="line"/>
+      <point x="308" y="761" type="line"/>
+      <point x="308" y="99" type="line"/>
+      <point x="203" y="238" type="line"/>
+      <point x="174" y="221" type="line"/>
+      <point x="332" y="-19" type="line"/>
+    </contour>
+    <contour>
+      <point x="826" y="535" type="line"/>
+      <point x="667" y="776" type="line"/>
+      <point x="514" y="535" type="line"/>
+      <point x="545" y="522" type="line"/>
+      <point x="646" y="657" type="line"/>
+      <point x="646" y="-4" type="line"/>
+      <point x="693" y="-4" type="line"/>
+      <point x="693" y="657" type="line"/>
+      <point x="796" y="518" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore.full" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="FF3F"/>
+  <note>
+cid00650
+</note>
+  <outline>
+    <contour>
+      <point x="1000" y="-120" type="line"/>
+      <point x="1000" y="-69" type="line"/>
+      <point x="0" y="-69" type="line"/>
+      <point x="0" y="-120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

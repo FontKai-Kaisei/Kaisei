@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uptack.full" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid00757
+</note>
+  <outline>
+    <contour>
+      <point x="95" y="-19" type="line"/>
+      <point x="905" y="-19" type="line"/>
+      <point x="905" y="36" type="line"/>
+      <point x="526" y="36" type="line"/>
+      <point x="526" y="730" type="line"/>
+      <point x="458" y="730" type="line"/>
+      <point x="458" y="36" type="line"/>
+      <point x="95" y="36" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

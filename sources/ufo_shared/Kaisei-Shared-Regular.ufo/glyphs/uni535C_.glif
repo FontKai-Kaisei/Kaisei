@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni535C" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="535C"/>
+  <note>
+cid03708
+</note>
+  <outline>
+    <contour>
+      <point x="359" y="-64" type="line"/>
+      <point x="454" y="-64" type="line"/>
+      <point x="454" y="479" type="line"/>
+      <point x="547" y="385"/>
+      <point x="727" y="264"/>
+      <point x="837" y="264" type="curve" smooth="yes"/>
+      <point x="857" y="264"/>
+      <point x="882" y="284"/>
+      <point x="882" y="311" type="curve" smooth="yes"/>
+      <point x="882" y="341"/>
+      <point x="859" y="365"/>
+      <point x="838" y="365" type="curve" smooth="yes"/>
+      <point x="812" y="365"/>
+      <point x="784" y="350"/>
+      <point x="783" y="311" type="curve"/>
+      <point x="702" y="352"/>
+      <point x="592" y="452"/>
+      <point x="535" y="533" type="curve"/>
+      <point x="511" y="521"/>
+      <point x="487" y="510"/>
+      <point x="454" y="494" type="curve"/>
+      <point x="454" y="800" type="line"/>
+      <point x="359" y="800" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

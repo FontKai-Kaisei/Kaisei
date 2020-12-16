@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright.half.rotat" format="2">
+  <advance height="500" width="1000"/>
+  <note>
+cid08957
+</note>
+  <outline>
+    <contour>
+      <point x="927" y="572" type="curve" smooth="yes"/>
+      <point x="945" y="572"/>
+      <point x="960" y="582"/>
+      <point x="960" y="601" type="curve" smooth="yes"/>
+      <point x="960" y="618"/>
+      <point x="945" y="627"/>
+      <point x="930" y="632" type="curve" smooth="yes"/>
+      <point x="897" y="641"/>
+      <point x="862" y="644"/>
+      <point x="829" y="651" type="curve" smooth="yes"/>
+      <point x="788" y="658"/>
+      <point x="735" y="670"/>
+      <point x="695" y="670" type="curve" smooth="yes"/>
+      <point x="693" y="670"/>
+      <point x="682" y="670"/>
+      <point x="682" y="667" type="curve" smooth="yes"/>
+      <point x="682" y="661"/>
+      <point x="694" y="656"/>
+      <point x="699" y="653" type="curve" smooth="yes"/>
+      <point x="736" y="636"/>
+      <point x="775" y="625"/>
+      <point x="813" y="610" type="curve" smooth="yes"/>
+      <point x="837" y="601"/>
+      <point x="905" y="572"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

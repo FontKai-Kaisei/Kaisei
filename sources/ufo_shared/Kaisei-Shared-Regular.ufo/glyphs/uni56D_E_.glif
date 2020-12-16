@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni56DE" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="56DE"/>
+  <note>
+cid01395
+</note>
+  <outline>
+    <contour>
+      <point x="128" y="-36" type="line"/>
+      <point x="670" y="-36" type="line" smooth="yes"/>
+      <point x="819" y="-36"/>
+      <point x="886" y="25"/>
+      <point x="886" y="181" type="curve" smooth="yes"/>
+      <point x="886" y="756" type="line"/>
+      <point x="128" y="756" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="7" type="line"/>
+      <point x="205" y="714" type="line"/>
+      <point x="801" y="714" type="line"/>
+      <point x="801" y="174" type="line" smooth="yes"/>
+      <point x="801" y="83"/>
+      <point x="765" y="6"/>
+      <point x="656" y="7" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="335" y="168" type="line"/>
+      <point x="529" y="168" type="line" smooth="yes"/>
+      <point x="623" y="168"/>
+      <point x="676" y="218"/>
+      <point x="676" y="319" type="curve" smooth="yes"/>
+      <point x="676" y="401"/>
+      <point x="676" y="483"/>
+      <point x="675" y="566" type="curve"/>
+      <point x="335" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="202" type="line"/>
+      <point x="412" y="533" type="line"/>
+      <point x="594" y="533" type="line"/>
+      <point x="594" y="300" type="line" smooth="yes"/>
+      <point x="594" y="256"/>
+      <point x="578" y="201"/>
+      <point x="516" y="202" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

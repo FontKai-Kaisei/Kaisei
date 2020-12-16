@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ten_Three-roman" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid08295
+</note>
+  <outline>
+    <contour>
+      <point x="547" y="19" type="line"/>
+      <point x="505" y="19" type="line"/>
+      <point x="331" y="385" type="line"/>
+      <point x="479" y="720" type="line"/>
+      <point x="547" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="699" y="19" type="line"/>
+      <point x="635" y="19" type="line"/>
+      <point x="635" y="720" type="line"/>
+      <point x="699" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="853" y="19" type="line"/>
+      <point x="789" y="19" type="line"/>
+      <point x="789" y="720" type="line"/>
+      <point x="853" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="986" y="-17" type="line"/>
+      <point x="986" y="19" type="line"/>
+      <point x="941" y="19" type="line"/>
+      <point x="941" y="720" type="line"/>
+      <point x="981" y="720" type="line"/>
+      <point x="981" y="757" type="line"/>
+      <point x="341" y="757" type="line"/>
+      <point x="341" y="720" type="line"/>
+      <point x="378" y="720" type="line"/>
+      <point x="284" y="479" type="line"/>
+      <point x="185" y="720" type="line"/>
+      <point x="205" y="720" type="line"/>
+      <point x="205" y="757" type="line"/>
+      <point x="24" y="757" type="line"/>
+      <point x="24" y="720" type="line"/>
+      <point x="73" y="720" type="line"/>
+      <point x="228" y="375" type="line"/>
+      <point x="61" y="19" type="line"/>
+      <point x="15" y="19" type="line"/>
+      <point x="15" y="-17" type="line"/>
+      <point x="184" y="-17" type="line"/>
+      <point x="184" y="19" type="line"/>
+      <point x="152" y="19" type="line"/>
+      <point x="277" y="288" type="line"/>
+      <point x="400" y="19" type="line"/>
+      <point x="342" y="19" type="line"/>
+      <point x="342" y="-17" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>880</integer>
+    <key>capHeight</key>
+    <integer>738</integer>
+    <key>copyright</key>
+    <string>Copyright 2020 Font-kai, Kazuo KANAI</string>
+    <key>descender</key>
+    <integer>-120</integer>
+    <key>familyName</key>
+    <string>Kaisei-Shared</string>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2020/11/30 00:00:00</string>
+    <key>openTypeNameDesigner</key>
+    <string>Font-Kai, 金井和夫</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://font-kai.jp</string>
+    <key>openTypeNameManufacturer</key>
+    <string>KAZUO KANAI</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://font-kai.jp</string>
+    <key>openTypeOS2Panose</key>
+    <array>
+      <integer>2</integer>
+      <integer>0</integer>
+      <integer>6</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array>
+      <integer>3</integer>
+    </array>
+    <key>openTypeOS2VendorID</key>
+    <string>FKAI</string>
+    <key>openTypeVheaVertTypoAscender</key>
+    <integer>500</integer>
+    <key>openTypeVheaVertTypoDescender</key>
+    <integer>-500</integer>
+    <key>openTypeVheaVertTypoLineGap</key>
+    <integer>1000</integer>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleName</key>
+    <string>Bold</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>5</integer>
+    <key>versionMinor</key>
+    <integer>1</integer>
+    <key>xHeight</key>
+    <integer>501</integer>
+  </dict>
+</plist>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft.rotat" format="2">
+  <advance height="428" width="1000"/>
+  <note>
+cid08827
+</note>
+  <outline>
+    <contour>
+      <point x="667" y="672" type="curve" smooth="yes"/>
+      <point x="692" y="672"/>
+      <point x="723" y="697"/>
+      <point x="723" y="722" type="curve" smooth="yes"/>
+      <point x="723" y="734"/>
+      <point x="721" y="746"/>
+      <point x="715" y="756" type="curve"/>
+      <point x="756" y="757"/>
+      <point x="822" y="735"/>
+      <point x="856" y="713" type="curve"/>
+      <point x="865" y="742" type="line"/>
+      <point x="826" y="784"/>
+      <point x="737" y="827"/>
+      <point x="679" y="827" type="curve" smooth="yes"/>
+      <point x="628" y="827"/>
+      <point x="587" y="807"/>
+      <point x="587" y="750" type="curve" smooth="yes"/>
+      <point x="587" y="702"/>
+      <point x="620" y="672"/>
+    </contour>
+    <contour>
+      <point x="667" y="504" type="curve" smooth="yes"/>
+      <point x="692" y="504"/>
+      <point x="723" y="529"/>
+      <point x="723" y="554" type="curve" smooth="yes"/>
+      <point x="723" y="566"/>
+      <point x="721" y="578"/>
+      <point x="715" y="588" type="curve"/>
+      <point x="756" y="589"/>
+      <point x="822" y="567"/>
+      <point x="856" y="545" type="curve"/>
+      <point x="865" y="574" type="line"/>
+      <point x="826" y="616"/>
+      <point x="737" y="659"/>
+      <point x="679" y="659" type="curve" smooth="yes"/>
+      <point x="628" y="659"/>
+      <point x="587" y="639"/>
+      <point x="587" y="582" type="curve" smooth="yes"/>
+      <point x="587" y="534"/>
+      <point x="620" y="504"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

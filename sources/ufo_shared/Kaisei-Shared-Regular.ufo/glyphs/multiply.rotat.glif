@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="multiply.rotat" format="2">
+  <advance height="750" width="1000"/>
+  <note>
+cid08905
+</note>
+  <outline>
+    <contour>
+      <point x="260" y="246" type="line"/>
+      <point x="481" y="469" type="line"/>
+      <point x="697" y="250" type="line"/>
+      <point x="732" y="285" type="line"/>
+      <point x="515" y="504" type="line"/>
+      <point x="734" y="724" type="line"/>
+      <point x="700" y="757" type="line"/>
+      <point x="483" y="536" type="line"/>
+      <point x="257" y="764" type="line"/>
+      <point x="222" y="731" type="line"/>
+      <point x="447" y="503" type="line"/>
+      <point x="226" y="279" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

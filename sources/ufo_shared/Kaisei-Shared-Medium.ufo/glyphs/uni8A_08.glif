@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni8A08" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="8A08"/>
+  <note>
+cid01837
+</note>
+  <outline>
+    <contour>
+      <point x="329" y="227" type="line"/>
+      <point x="329" y="80" type="line" smooth="yes"/>
+      <point x="329" y="25"/>
+      <point x="301" y="-7"/>
+      <point x="244" y="-7" type="curve" smooth="yes"/>
+      <point x="207" y="-7" type="line"/>
+      <point x="207" y="227" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="90" type="curve" smooth="yes"/>
+      <point x="419" y="264" type="line"/>
+      <point x="119" y="264" type="line"/>
+      <point x="119" y="-45" type="line"/>
+      <point x="268" y="-45" type="line" smooth="yes"/>
+      <point x="365" y="-45"/>
+      <point x="419" y="-15"/>
+    </contour>
+    <contour>
+      <point x="423" y="396" type="curve" smooth="yes"/>
+      <point x="423" y="420"/>
+      <point x="403" y="443"/>
+      <point x="379" y="443" type="curve" smooth="yes"/>
+      <point x="355" y="443"/>
+      <point x="335" y="421"/>
+      <point x="335" y="397" type="curve"/>
+      <point x="126" y="397" type="line"/>
+      <point x="126" y="354" type="line"/>
+      <point x="379" y="354" type="line" smooth="yes"/>
+      <point x="402" y="354"/>
+      <point x="423" y="372"/>
+    </contour>
+    <contour>
+      <point x="423" y="527" type="curve" smooth="yes"/>
+      <point x="423" y="551"/>
+      <point x="403" y="573"/>
+      <point x="379" y="573" type="curve" smooth="yes"/>
+      <point x="355" y="573"/>
+      <point x="334" y="551"/>
+      <point x="334" y="527" type="curve"/>
+      <point x="335" y="526" type="line"/>
+      <point x="124" y="526" type="line"/>
+      <point x="124" y="484" type="line"/>
+      <point x="379" y="484" type="line" smooth="yes"/>
+      <point x="404" y="484"/>
+      <point x="423" y="501"/>
+    </contour>
+    <contour>
+      <point x="498" y="662" type="curve" smooth="yes"/>
+      <point x="498" y="688"/>
+      <point x="476" y="714"/>
+      <point x="449" y="714" type="curve" smooth="yes"/>
+      <point x="418" y="714"/>
+      <point x="400" y="686"/>
+      <point x="400" y="657" type="curve"/>
+      <point x="291" y="657" type="line"/>
+      <point x="300" y="677"/>
+      <point x="345" y="775"/>
+      <point x="345" y="790" type="curve" smooth="yes"/>
+      <point x="345" y="801"/>
+      <point x="335" y="804"/>
+      <point x="326" y="806" type="curve" smooth="yes"/>
+      <point x="305" y="812"/>
+      <point x="238" y="812"/>
+      <point x="213" y="812" type="curve"/>
+      <point x="222" y="760"/>
+      <point x="232" y="708"/>
+      <point x="245" y="657" type="curve"/>
+      <point x="46" y="657" type="line"/>
+      <point x="46" y="614" type="line"/>
+      <point x="442" y="614" type="line" smooth="yes"/>
+      <point x="469" y="614"/>
+      <point x="498" y="633"/>
+    </contour>
+    <contour>
+      <point x="979" y="492" type="curve" smooth="yes"/>
+      <point x="979" y="518"/>
+      <point x="957" y="543"/>
+      <point x="930" y="543" type="curve" smooth="yes"/>
+      <point x="904" y="543"/>
+      <point x="881" y="518"/>
+      <point x="881" y="492" type="curve" smooth="yes"/>
+      <point x="881" y="489"/>
+      <point x="882" y="486"/>
+      <point x="882" y="484" type="curve"/>
+      <point x="736" y="484" type="line"/>
+      <point x="736" y="813" type="line"/>
+      <point x="642" y="813" type="line"/>
+      <point x="642" y="484" type="line"/>
+      <point x="447" y="484" type="line"/>
+      <point x="447" y="444" type="line"/>
+      <point x="642" y="444" type="line"/>
+      <point x="642" y="-71" type="line"/>
+      <point x="736" y="-71" type="line"/>
+      <point x="736" y="444" type="line"/>
+      <point x="922" y="444" type="line" smooth="yes"/>
+      <point x="952" y="444"/>
+      <point x="979" y="457"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

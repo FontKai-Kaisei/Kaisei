@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon.half.rotat" format="2">
+  <advance height="500" width="1000"/>
+  <note>
+cid08977
+</note>
+  <outline>
+    <contour>
+      <point x="240" y="561" type="curve" smooth="yes"/>
+      <point x="280" y="561"/>
+      <point x="308" y="590"/>
+      <point x="308" y="630" type="curve" smooth="yes"/>
+      <point x="308" y="666"/>
+      <point x="276" y="699"/>
+      <point x="240" y="699" type="curve" smooth="yes"/>
+      <point x="220" y="699"/>
+      <point x="182" y="684"/>
+      <point x="182" y="660" type="curve" smooth="yes"/>
+      <point x="182" y="651"/>
+      <point x="186" y="644"/>
+      <point x="186" y="635" type="curve" smooth="yes"/>
+      <point x="186" y="618"/>
+      <point x="179" y="617"/>
+      <point x="164" y="617" type="curve" smooth="yes"/>
+      <point x="126" y="617"/>
+      <point x="66" y="640"/>
+      <point x="35" y="661" type="curve"/>
+      <point x="26" y="642" type="line"/>
+      <point x="73" y="605"/>
+      <point x="180" y="561"/>
+    </contour>
+    <contour>
+      <point x="534" y="561" type="curve" smooth="yes"/>
+      <point x="572" y="561"/>
+      <point x="602" y="592"/>
+      <point x="602" y="630" type="curve" smooth="yes"/>
+      <point x="602" y="668"/>
+      <point x="572" y="699"/>
+      <point x="534" y="699" type="curve" smooth="yes"/>
+      <point x="495" y="699"/>
+      <point x="465" y="668"/>
+      <point x="465" y="630" type="curve" smooth="yes"/>
+      <point x="465" y="592"/>
+      <point x="495" y="561"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

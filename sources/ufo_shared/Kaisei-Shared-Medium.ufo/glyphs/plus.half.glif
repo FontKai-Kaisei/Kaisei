@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus.half" format="2">
+  <advance height="1000" width="500"/>
+  <note>
+cid00242
+</note>
+  <outline>
+    <contour>
+      <point x="473" y="347" type="line"/>
+      <point x="473" y="385" type="line"/>
+      <point x="272" y="385" type="line"/>
+      <point x="272" y="582" type="line"/>
+      <point x="227" y="582" type="line"/>
+      <point x="227" y="385" type="line"/>
+      <point x="29" y="385" type="line"/>
+      <point x="29" y="347" type="line"/>
+      <point x="227" y="347" type="line"/>
+      <point x="227" y="149" type="line"/>
+      <point x="272" y="149" type="line"/>
+      <point x="272" y="347" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

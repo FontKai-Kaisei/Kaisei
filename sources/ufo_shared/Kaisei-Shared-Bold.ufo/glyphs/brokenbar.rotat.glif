@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar.rotat" format="2">
+  <advance height="400" width="1000"/>
+  <note>
+cid08812
+</note>
+  <outline>
+    <contour>
+      <point x="29" y="636" type="line"/>
+      <point x="454" y="636" type="line"/>
+      <point x="454" y="724" type="line"/>
+      <point x="29" y="724" type="line"/>
+    </contour>
+    <contour>
+      <point x="543" y="636" type="line"/>
+      <point x="969" y="636" type="line"/>
+      <point x="969" y="724" type="line"/>
+      <point x="543" y="724" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

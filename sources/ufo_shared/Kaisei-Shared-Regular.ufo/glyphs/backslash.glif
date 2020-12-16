@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="backslash" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="005C"/>
+  <note>
+cid00097
+</note>
+  <outline>
+    <contour>
+      <point x="411" y="-96" type="line"/>
+      <point x="460" y="-68" type="line"/>
+      <point x="91" y="761" type="line"/>
+      <point x="40" y="733" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

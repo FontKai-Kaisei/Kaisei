@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalnot.half" format="2">
+  <advance height="1000" width="1000"/>
+  <note>
+cid08718
+</note>
+  <outline>
+    <contour>
+      <point x="416" y="227" type="line"/>
+      <point x="465" y="227" type="line"/>
+      <point x="465" y="526" type="line"/>
+      <point x="22" y="526" type="line"/>
+      <point x="22" y="477" type="line"/>
+      <point x="416" y="477" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

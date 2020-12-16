@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater" format="2">
+  <advance height="1000" width="780"/>
+  <unicode hex="003E"/>
+  <note>
+cid00031
+</note>
+  <outline>
+    <contour>
+      <point x="88" y="56" type="line"/>
+      <point x="678" y="359" type="line"/>
+      <point x="88" y="659" type="line"/>
+      <point x="88" y="600" type="line"/>
+      <point x="595" y="359" type="line"/>
+      <point x="88" y="116" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

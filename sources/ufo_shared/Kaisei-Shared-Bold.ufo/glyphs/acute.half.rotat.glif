@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.half.rotat" format="2">
+  <advance height="500" width="1000"/>
+  <note>
+cid09046
+</note>
+  <outline>
+    <contour>
+      <point x="879" y="499" type="line"/>
+      <point x="976" y="526" type="line"/>
+      <point x="898" y="740" type="line"/>
+      <point x="841" y="721" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:52</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

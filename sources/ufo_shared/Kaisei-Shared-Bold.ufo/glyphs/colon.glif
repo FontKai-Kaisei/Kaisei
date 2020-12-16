@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance height="1000" width="390"/>
+  <unicode hex="003A"/>
+  <note>
+cid00027
+</note>
+  <outline>
+    <contour>
+      <point x="273" y="84" type="curve" smooth="yes"/>
+      <point x="273" y="130"/>
+      <point x="240" y="158"/>
+      <point x="195" y="158" type="curve" smooth="yes"/>
+      <point x="150" y="158"/>
+      <point x="117" y="130"/>
+      <point x="117" y="84" type="curve" smooth="yes"/>
+      <point x="117" y="38"/>
+      <point x="150" y="10"/>
+      <point x="195" y="10" type="curve" smooth="yes"/>
+      <point x="240" y="10"/>
+      <point x="273" y="38"/>
+    </contour>
+    <contour>
+      <point x="273" y="442" type="curve" smooth="yes"/>
+      <point x="273" y="488"/>
+      <point x="240" y="517"/>
+      <point x="195" y="517" type="curve" smooth="yes"/>
+      <point x="150" y="517"/>
+      <point x="117" y="488"/>
+      <point x="117" y="442" type="curve" smooth="yes"/>
+      <point x="117" y="396"/>
+      <point x="150" y="368"/>
+      <point x="195" y="368" type="curve" smooth="yes"/>
+      <point x="240" y="368"/>
+      <point x="273" y="396"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

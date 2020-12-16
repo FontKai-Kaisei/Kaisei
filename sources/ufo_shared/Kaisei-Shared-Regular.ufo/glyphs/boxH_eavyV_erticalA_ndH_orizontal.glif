@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxHeavyVerticalAndHorizontal" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="254B"/>
+  <note>
+cid07554
+</note>
+  <outline>
+    <contour>
+      <point x="439" y="-119" type="line"/>
+      <point x="563" y="-119" type="line"/>
+      <point x="563" y="318" type="line"/>
+      <point x="999" y="318" type="line"/>
+      <point x="999" y="441" type="line"/>
+      <point x="563" y="441" type="line"/>
+      <point x="563" y="879" type="line"/>
+      <point x="439" y="879" type="line"/>
+      <point x="439" y="441" type="line"/>
+      <point x="0" y="441" type="line"/>
+      <point x="0" y="318" type="line"/>
+      <point x="439" y="318" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/12/15 18:54:51</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
