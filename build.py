@@ -18,15 +18,15 @@ def fontExport(name: str, sources:Path, path:Path):
 
         print ("["+fontName+"] Processing")
         exportfont = ufoLib2.Font.open(file)
-        variant = "W4"
-        if "W5" in str(file):
-            variant = "W5"
-        elif "W7" in str(file):
-            variant = "W7"
-        elif "W8" in str(file):
-            variant = "W8"
+        variant = "Regular"
+        if "Medium" in str(file):
+            variant = "Medium"
+        elif "ExtraBold" in str(file):
+            variant = "ExtraBold"
+        elif "Bold" in str(file):
+            variant = "Bold"
 
-        sharedFont = ufoLib2.Font.open(sources / "ufo_shared" / str("FK-Kaisei-shared-"+variant+".ufo"))
+        sharedFont = ufoLib2.Font.open(sources / "ufo_shared" / str("Kaisei-shared-"+variant+".ufo"))
 
         print ("["+fontName+"] Importing shared glyphs")
         for glyph in sharedFont.glyphOrder:
@@ -39,6 +39,22 @@ def fontExport(name: str, sources:Path, path:Path):
         print ("["+fontName+"] Compiling")
         static_ttf = ufo2ft.compileTTF(exportfont)
 
+        if name == "haruno":
+            static_ttf["name"].addMultilingualName({'ja':'解星-春の海'}, static_ttf, nameID = 1, windows=True, mac=False)
+        elif name == "tokumin":
+            static_ttf["name"].addMultilingualName({'ja':'解星-特ミン'}, static_ttf, nameID = 1, windows=True, mac=False)
+        elif name == "opti":
+            static_ttf["name"].addMultilingualName({'ja':'解星-オプティ'}, static_ttf, nameID = 1, windows=True, mac=False)
+        elif name == "decol":
+            static_ttf["name"].addMultilingualName({'ja':'解星-デコール'}, static_ttf, nameID = 1, windows=True, mac=False)
+
+        if "Medium" in str(file):
+            static_ttf["OS/2"].usWeightClass = 500
+        elif "ExtraBold" in str(file):
+            static_ttf["OS/2"].usWeightClass = 800
+        elif "Bold" in str(file):
+            static_ttf["OS/2"].usWeightClass = 700
+
         print ("["+fontName+"] Adding stub DSIG")
         static_ttf["DSIG"] = newTable("DSIG")     #need that stub dsig
         static_ttf["DSIG"].ulVersion = 1
@@ -49,11 +65,11 @@ def fontExport(name: str, sources:Path, path:Path):
 
         print ("["+fontName+"] Saving")
 
-        os.makedirs("Fonts/ttf/"+name, exist_ok=True)
+        os.makedirs("fonts/ttf/"+name, exist_ok=True)
 
-        outputName = "Fonts/ttf/"+name+"/FK-Kaisei-"+name.capitalize()+"-"+variant+".ttf"
-        if name == "haruna":
-            outputName = "Fonts/ttf/"+name+"/FK-Kaisei-HarunoUmi-"+variant+".ttf"
+        outputName = "fonts/ttf/"+name+"/Kaisei"+name.capitalize()+"-"+variant+".ttf"
+        if name == "haruno":
+            outputName = "fonts/ttf/"+name+"/KaiseiHarunoUmi-"+variant+".ttf"
 
         static_ttf.save(outputName)
 
@@ -63,9 +79,9 @@ def execute(name:str, sources:Path):
     print ("Generating "+name+" UFO")
     outputPath = sources / str("ufo_"+name)
     os.makedirs(outputPath, exist_ok=True)
-    glyphsName = "FK-Kaisei-"+name.capitalize()+".glyphs"
+    glyphsName = "Kaisei-"+name.capitalize()+".glyphs"
     if name == "haruno":
-        glyphsName = "FK-Kaisei-HarunoUmi.glyphs"
+        glyphsName = "Kaisei-HarunoUmi.glyphs"
     main(("glyphs2ufo", str(sources / glyphsName), "-m", str(outputPath)))
     fontExport(name, sources, outputPath)
 
@@ -88,11 +104,11 @@ if __name__ == "__main__":
         args.tokumin = True
 
     if args.decol or args.haruno or args.opti or args.tokumin:
-        print ("Generating shared UFO")
         os.makedirs("sources/ufo_shared", exist_ok=True)
         if args.shared:
-            if os.path.isfile(sources / "FK-Kaisei-Shared.glyphs"):
-                main(("glyphs2ufo", str(sources / "FK-Kaisei-Shared.glyphs"), "-m", str(sources / "ufo_shared")))
+            print ("Generating shared UFO")
+            if os.path.isfile(sources / "Kaisei-Shared.glyphs"):
+                main(("glyphs2ufo", str(sources / "Kaisei-Shared.glyphs"), "-m", str(sources / "ufo_shared")))
             else:
                 print ("Cannot locate the 'shared' Glyphs file. Please confirm the file is unzipped.")
 
@@ -137,7 +153,7 @@ if __name__ == "__main__":
             process.get()
         del processes, pool
 
-        for font in list(glob.glob("Fonts/ttf/**/*.ttf", recursive=True)):
+        for font in list(glob.glob("fonts/ttf/**/*.ttf", recursive=True)):
             print ("["+font+"] Autohinting")
             if "hinted" not in str(font):
                 subprocess.check_call(
@@ -151,5 +167,10 @@ if __name__ == "__main__":
                     )
                 shutil.move(str(font).split(".")[0]+"-hinted.ttf", str(font))
         print ("Done!")
+    elif args.shared:
+        if os.path.isfile(sources / "Kaisei-Shared.glyphs"):
+            main(("glyphs2ufo", str(sources / "Kaisei-Shared.glyphs"), "-m", str(sources / "ufo_shared")))
+        else:
+            print ("Cannot locate the 'shared' Glyphs file. Please confirm the file is unzipped.")
     else:
         print ("No fonts selected for export")
