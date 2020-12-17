@@ -26,10 +26,10 @@ def fontExport(name: str, sources:Path, path:Path):
         elif "Bold" in str(file):
             variant = "Bold"
 
-        if name == "tokumin" and variant == "Regular":
-            variant = "Medium" # To align with Google's standards we must shift the Medium to be a Regular. 
-
-        sharedFont = ufoLib2.Font.open(sources / "ufo_shared" / str("Kaisei-shared-"+variant+".ufo"))
+        if name == "tokumin" and variant == "Regular": # To align with Google's standards we must shift the Medium to be a Regular, so have to make sure the right Kanji are added. 
+            sharedFont = ufoLib2.Font.open(sources / "ufo_shared" / str("Kaisei-shared-Medium.ufo"))
+        else:
+            sharedFont = ufoLib2.Font.open(sources / "ufo_shared" / str("Kaisei-shared-"+variant+".ufo"))
 
         print ("["+fontName+"] Importing shared glyphs")
         for glyph in sharedFont.glyphOrder:
