@@ -1,5 +1,5 @@
 from glyphsLib.cli import main
-from fontTools.ttLib import newTable
+from fontTools.ttLib import newTable, TTFont
 import shutil
 import subprocess
 import multiprocessing
@@ -25,6 +25,9 @@ def fontExport(name: str, sources:Path, path:Path):
             variant = "ExtraBold"
         elif "Bold" in str(file):
             variant = "Bold"
+
+        if name == "tokumin" and variant == "Regular":
+            variant = "Medium" # To align with Google's standards we must shift the Medium to be a Regular. 
 
         sharedFont = ufoLib2.Font.open(sources / "ufo_shared" / str("Kaisei-shared-"+variant+".ufo"))
 
@@ -62,6 +65,16 @@ def fontExport(name: str, sources:Path, path:Path):
         static_ttf["DSIG"].usNumSigs = 0
         static_ttf["DSIG"].signatureRecords = []
         static_ttf["head"].flags |= 1 << 3        #sets flag to always round PPEM to integer
+
+        print ("["+fontName+"] Merging BASE")
+        static_ttf["BASE"] = newTable("BASE")
+        base = TTFont()
+        if variant == "Medium" or variant == "Regular":
+            base.importXML(sources / "BASE_regular.ttx")
+        else:
+            base.importXML(sources / str("BASE_"+variant.lower()+".ttx"))
+
+        static_ttf["BASE"] = base["BASE"]
 
         print ("["+fontName+"] Saving")
 
@@ -153,20 +166,38 @@ if __name__ == "__main__":
             process.get()
         del processes, pool
 
-        for font in list(glob.glob("fonts/ttf/**/*.ttf", recursive=True)):
-            print ("["+font+"] Autohinting")
-            if "hinted" not in str(font):
-                subprocess.check_call(
-                        [
-                            "ttfautohint",
-                            "--stem-width",
-                            "nsn",
-                            str(font),
-                            str(font).split(".")[0]+"-hinted.ttf",
-                        ]
-                    )
-                shutil.move(str(font).split(".")[0]+"-hinted.ttf", str(font))
-        print ("Done!")
+        hintingSet = []
+
+        if args.all:
+            hintingSet = "decol", "haruno", "opti", "tokumin"
+        else:
+            if args.decol:
+                hintingSet.append("decol")
+            if args.haruno:
+                hintingSet.append("haruno")
+            if args.opti:
+                hintingSet.append("opti")
+            if args.tokumin:
+                hintingSet.append("tokumin")
+
+        if len(hintingSet) > 0:
+            for item in hintingSet:
+
+                for font in list(glob.glob("fonts/ttf/"+item+"/*.ttf")):
+                    print ("["+font+"] Autohinting")
+                    if "hinted" not in str(font):
+                        subprocess.check_call(
+                                [
+                                    "ttfautohint",
+                                    "--stem-width",
+                                    "nsn",
+                                    str(font),
+                                    str(font).split(".")[0]+"-hinted.ttf",
+                                ]
+                            )
+                        shutil.move(str(font).split(".")[0]+"-hinted.ttf", str(font))
+                print ("Done!")
+
     elif args.shared:
         if os.path.isfile(sources / "Kaisei-Shared.glyphs"):
             main(("glyphs2ufo", str(sources / "Kaisei-Shared.glyphs"), "-m", str(sources / "ufo_shared")))
