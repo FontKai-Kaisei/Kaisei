@@ -2,12 +2,10 @@
 <designspace format="4.1">
   <axes>
     <axis tag="wght" name="Weight" minimum="400" maximum="800" default="400"/>
-    <axis tag="wdth" name="Width" minimum="100" maximum="100" default="100">
-      <map input="100" output="5"/>
-    </axis>
+    <axis tag="wdth" name="Width" minimum="5" maximum="5" default="5"/>
   </axes>
   <sources>
-    <source filename="Kaisei-Shared-Regular.ufo" name="Kaisei-Shared Regular" familyname="Kaisei-Shared" stylename="Regular">
+    <source filename="KaiseiShared-Regular.ufo" name="Kaisei Shared Regular" familyname="Kaisei Shared" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -17,125 +15,23 @@
         <dimension name="Width" xvalue="5"/>
       </location>
     </source>
-    <source filename="Kaisei-Shared-Medium.ufo" name="Kaisei-Shared Medium" familyname="Kaisei-Shared" stylename="Medium">
+    <source filename="KaiseiShared-Medium.ufo" name="Kaisei Shared Medium" familyname="Kaisei Shared" stylename="Medium">
       <location>
         <dimension name="Weight" xvalue="500"/>
         <dimension name="Width" xvalue="5"/>
       </location>
     </source>
-    <source filename="Kaisei-Shared-Bold.ufo" name="Kaisei-Shared Bold" familyname="Kaisei-Shared" stylename="Bold">
+    <source filename="KaiseiShared-Bold.ufo" name="Kaisei Shared Bold" familyname="Kaisei Shared" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="700"/>
         <dimension name="Width" xvalue="5"/>
       </location>
     </source>
-    <source filename="Kaisei-Shared-ExtraBold.ufo" name="Kaisei-Shared ExtraBold" familyname="Kaisei-Shared" stylename="ExtraBold">
+    <source filename="KaiseiShared-ExtraBold.ufo" name="Kaisei Shared ExtraBold" familyname="Kaisei Shared" stylename="ExtraBold">
       <location>
         <dimension name="Weight" xvalue="800"/>
         <dimension name="Width" xvalue="5"/>
       </location>
     </source>
   </sources>
-  <instances>
-    <instance name="Kaisei-Shared Regular" familyname="Kaisei-Shared" stylename="Regular" filename="instance_ufos/Kaisei-Shared-Regular.ufo">
-      <location>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="5"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>F35B5637-F813-41CB-B6FF-C50FC5AC108C</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
-    </instance>
-    <instance name="Kaisei-Shared Medium" familyname="Kaisei-Shared" stylename="Medium" filename="instance_ufos/Kaisei-Shared-Medium.ufo">
-      <location>
-        <dimension name="Weight" xvalue="500"/>
-        <dimension name="Width" xvalue="5"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>9AC43A87-A340-456E-9C0C-E882014B4215</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Medium</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
-    </instance>
-    <instance name="Kaisei-Shared Bold" familyname="Kaisei-Shared" stylename="Bold" filename="instance_ufos/Kaisei-Shared-Bold.ufo">
-      <location>
-        <dimension name="Weight" xvalue="700"/>
-        <dimension name="Width" xvalue="5"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>B04C9D2C-DC92-4D97-A825-4B09A66C3C3E</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
-    </instance>
-    <instance name="Kaisei-Shared ExtraBold" familyname="Kaisei-Shared" stylename="ExtraBold" filename="instance_ufos/Kaisei-Shared-ExtraBold.ufo">
-      <location>
-        <dimension name="Weight" xvalue="800"/>
-        <dimension name="Width" xvalue="5"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>CEAB5B1B-19F9-4388-8C9D-A75A746707E8</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>ExtraBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
-    </instance>
-  </instances>
 </designspace>
