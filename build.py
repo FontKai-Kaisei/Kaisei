@@ -27,13 +27,13 @@ def fontExport(name: str, sources:Path, path:Path):
             variant = "Bold"
 
         if name == "tokumin" and variant == "Regular": # To align with Google's standards we must shift the Medium to be a Regular, so have to make sure the right Kanji are added. 
-            sharedFont = ufoLib2.Font.open(sources / "ufo_shared" / str("Kaisei-shared-Medium.ufo"))
+            sharedFont = ufoLib2.Font.open(sources / "ufo_shared" / str("KaiseiShared-Medium.ufo"))
         else:
-            sharedFont = ufoLib2.Font.open(sources / "ufo_shared" / str("Kaisei-shared-"+variant+".ufo"))
+            sharedFont = ufoLib2.Font.open(sources / "ufo_shared" / str("KaiseiShared-"+variant+".ufo"))
 
         print ("["+fontName+"] Importing shared glyphs")
-        for glyph in sharedFont.glyphOrder:
-            exportfont.addGlyph(sharedFont[glyph])
+        for glyph in sharedFont:
+            exportfont.addGlyph(sharedFont[glyph.name])
 
         print ("["+fontName+"] Adding feature code") 
         featureSet = sources / "features.fea"
@@ -116,7 +116,7 @@ if __name__ == "__main__":
         args.opti = True
         args.tokumin = True
 
-    if args.decol or args.haruno or args.opti or args.tokumin:
+    if args.decol or args.haruno or args.opti or args.tokumin or args.shared:
         os.makedirs("sources/ufo_shared", exist_ok=True)
         if args.shared:
             print ("Generating shared UFO")
