@@ -11,6 +11,13 @@ import ufo2ft
 import ufoLib2
 import os
 
+def GASP_set(font:TTFont):
+    if "gasp" not in font:
+        font["gasp"] = newTable("gasp")
+        font["gasp"].gaspRange = {}
+    if font["gasp"].gaspRange != {65535: 0x000A}:
+        font["gasp"].gaspRange = {65535: 0x000A}
+
 def fontExport(name: str, sources:Path, path:Path):
     for file in list(path.glob("*.ufo")):
 
@@ -81,6 +88,7 @@ def fontExport(name: str, sources:Path, path:Path):
         if name == "haruno":
             outputName = "fonts/ttf/"+name+"/KaiseiHarunoUmi-"+variant+".ttf"
 
+        GASP_set(static_ttf)
         static_ttf.save(outputName)
 
     shutil.rmtree(str(path))
@@ -162,38 +170,6 @@ if __name__ == "__main__":
         for process in processes:
             process.get()
         del processes, pool
-
-        hintingSet = []
-
-        if args.all:
-            hintingSet = "decol", "haruno", "opti", "tokumin"
-        else:
-            if args.decol:
-                hintingSet.append("decol")
-            if args.haruno:
-                hintingSet.append("haruno")
-            if args.opti:
-                hintingSet.append("opti")
-            if args.tokumin:
-                hintingSet.append("tokumin")
-
-        if len(hintingSet) > 0:
-            for item in hintingSet:
-
-                for font in list(glob.glob("fonts/ttf/"+item+"/*.ttf")):
-                    print ("["+font+"] Autohinting")
-                    if "hinted" not in str(font):
-                        subprocess.check_call(
-                                [
-                                    "ttfautohint",
-                                    "--stem-width",
-                                    "nsn",
-                                    str(font),
-                                    str(font).split(".")[0]+"-hinted.ttf",
-                                ]
-                            )
-                        shutil.move(str(font).split(".")[0]+"-hinted.ttf", str(font))
-                print ("Done!")
 
     elif args.shared:
         if os.path.isfile(sources / "Kaisei-Shared.glyphs"):
