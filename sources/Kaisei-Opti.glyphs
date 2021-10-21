@@ -1,8 +1,5 @@
 {
-.appVersion = "1342";
-DisplayStrings = (
-""
-);
+.appVersion = "1352";
 copyright = "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)";
 customParameters = (
 {
@@ -207352,5 +207349,5 @@ manufacturer = "KAZUO KANAI";
 manufacturerURL = "https://font-kai.jp";
 unitsPerEm = 1000;
 versionMajor = 5;
-versionMinor = 2;
+versionMinor = 3;
 }
